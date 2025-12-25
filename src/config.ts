@@ -8,6 +8,12 @@ export const SITE = {
   postPerPage: 5,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
+  showBackButton: true, // show back button in post detail
+  editPost: {
+    enabled: true,
+    text: "Edit page",
+    url: "https://github.com/satnaing/astro-paper/edit/main/",
+  },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
   timezone: "Europe/Berlin", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/
