@@ -22,11 +22,6 @@ export const SITE = {
   timezone: "Europe/Berlin", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/
 } as const;
 
-export const LOCALE = {
-  lang: "en",
-  langTag: ["en-EN"], 
-} as const;
-
 export const LOGO_IMAGE = {
   enable: false,
   svg: true,
