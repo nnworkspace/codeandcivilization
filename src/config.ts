@@ -2,7 +2,7 @@ export const SITE = {
   website: "https://code-and-civilisation.vercel.app/", // Fixed URL (hyphens)
   author: "Ning Zhao",
   profile: "https://www.linkedin.com/in/nizhao/",
-  desc: "Disinterested contemplation on the architecture of work, the ascent of systems, and the art of building civilization.",
+  desc: "Disinterested contemplation on the architecture of collaboration, the ascent of systems, and the art of building civilisation.",
   title: "Code and Civilisation",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
@@ -14,7 +14,7 @@ export const SITE = {
   editPost: {
     enabled: true,
     text: "Edit page",
-    url: "https://github.com/satnaing/astro-paper/edit/main/",
+    url: "https://github.com/nnworkspace/codeandcivilization/edit/main/",
   },
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"

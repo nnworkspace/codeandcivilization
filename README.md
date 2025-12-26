@@ -1,6 +1,6 @@
 # Code & Civilization Source Text Repository
 
-Disinterested contemplation on the architecture of work, the ascent of systems, and the art of building civilization.
+Disinterested contemplation on the architecture of collaboration, the ascent of systems, and the art of building civilisation.
 
 Code licensed under MIT. Content licensed under Creative Commons (CC BY-NC-SA 4.0).
 
