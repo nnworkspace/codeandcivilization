@@ -1,7 +1,7 @@
 ---
 author: "Ning Zhao"
-pubDatetime: 2025-12-26T23:18:00
-modDatetime: 2025-12-26T23:18:00
+pubDatetime: 2025-12-26T22:18:00
+modDatetime: 2025-12-26T22:18:00
 title: "On Code, Institutions, and Judgement"
 slug: "manifesto"
 draft: false
