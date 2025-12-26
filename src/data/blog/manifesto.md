@@ -41,4 +41,3 @@ As a child, I loved reading and dreamed of becoming a journalist—someone who c
 
 If civilisation is, as Clark suggested, a fragile achievement, then so too are the systems we build today. They deserve our best judgement, our clearest language, and our quiet attention.
 
-
