@@ -5,7 +5,6 @@ Disinterested contemplation on the architecture of collaboration, the ascent of 
 Code licensed under MIT. Content licensed under Creative Commons (CC BY-NC-SA 4.0).
 
 
-
 ## 🚀 Project Structure
 
 This repo uses AstroPaper for the frontend, you'll see the following folders and files:
