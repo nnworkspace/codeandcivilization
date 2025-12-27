@@ -17,7 +17,7 @@ description: "On code, institutions, and the quiet work of building civilisation
 
 _This essay serves as both an introduction and a statement of intent for Code and Civilisation._
 
-![Renaissance architectural study: The logic behind the structure](/assets/manifesto.png)
+![Classic stepcase as title image for the manifesto](/assets/manifesto.png)
 
 **Code and Civilisation** is an exercise in disinterested contemplation: an attempt to reflect on the architecture of collaboration, the ascent of systems, and the quiet arts by which civilisation is built and sustained.
 
