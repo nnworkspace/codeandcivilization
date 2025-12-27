@@ -15,7 +15,7 @@ tags:
 description: "On code, institutions, and the quiet work of building civilisation."
 ---
 
-> This essay serves as both an introduction and a statement of intent for Code and Civilisation.
+_This essay serves as both an introduction and a statement of intent for Code and Civilisation._
 
 ![Renaissance architectural study: The logic behind the structure](/assets/manifesto.png)
 
