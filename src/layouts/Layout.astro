@@ -1,4 +1,5 @@
 ---
+import Analytics from '@vercel/analytics/astro'
 import { ClientRouter } from "astro:transitions";
 import { PUBLIC_GOOGLE_SITE_VERIFICATION } from "astro:env/client";
 import { SITE } from "@/config";
@@ -131,6 +132,7 @@ const structuredData = {
     <ClientRouter />
 
     <script is:inline src="/toggle-theme.js"></script>
+    <Analytics />
   </head>
   <body>
     <slot />
