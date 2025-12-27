@@ -101,6 +101,15 @@ const nextPost =
     </h1>
     <div class="my-2 flex items-center gap-2">
       <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
+
+      {author && (
+        <>
+          <span aria-hidden="true"> | </span>
+          <span class="capitalize font-medium">{author}</span>
+        </>
+      )}
+
+      {/* Existing Edit Page Link */}
       <span
         aria-hidden="true"
         class:list={[

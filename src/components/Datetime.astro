@@ -26,12 +26,12 @@ const {
 
 /* ========== Formatted Datetime ========== */
 const isModified = modDatetime && modDatetime > pubDatetime;
+const tz = postTimezone || SITE.timezone; // Extract the timezone for reuse
 
-const datetime = dayjs(isModified ? modDatetime : pubDatetime).tz(
-  postTimezone || SITE.timezone
-);
+const datetime = dayjs(isModified ? modDatetime : pubDatetime).tz(tz);
 
-const date = datetime.format("D MMM, YYYY"); // e.g., '22 Mar, 2025'
+// Updated to include the YYYY-MM-DD format, 24h time, and the Timezone name
+const date = `${datetime.format("YYYY-MM-DD, HH:mm")} ${tz}`;
 ---
 
 <div class:list={["flex items-center gap-x-2 opacity-80", className]}>

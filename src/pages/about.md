@@ -1,9 +1,7 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About 'Code and Civilisation'"
 ---
-
-# About _Code and Civilisation_
 
 **Code and Civilisation** is an exercise in disinterested contemplation: an attempt to reflect on the architecture of collaboration, the ascent of systems, and the quiet arts by which civilisation is built and sustained.
 
