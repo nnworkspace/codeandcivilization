@@ -17,8 +17,6 @@ description: "An introduction to Élan, a workbench for uniting intent, structur
 
 # Élan — An Introduction
 
-![pont du gard aqueduct](/assets/pont-du-gard-aqueduct.jpg)
-
 I am standing today before a repository of files.  
 Not a library, exactly, though it contains laws.  
 Not a factory, though it produces machinery.  
@@ -30,7 +28,7 @@ For several days, during a brief and quiet interval between obligations, I have 
 
 The word is usually taken to mean a flash of spirit, a burst of speed. But in the context of our digital civilisation, it suggests something more restrained and more durable: the confidence of movement that comes from knowing exactly where one stands.
 
-Great architecture does not move, yet it has momentum. The arches of a cathedral carry immense weight with a logic so precise it appears effortless. That is the kind of momentum we have largely lost in software. We have learned how to move quickly; we have forgotten how to move with confidence.
+Great architecture does not move, yet it has momentum. The arches of a cathedral carry immense weight with a logic so precise it appears effortless. That is the kind of momentum we have largely lost in the construction of our digital world. We have learned how to move restlessly; we have forgotten how to move with rigour and confidence.
 
 **Élan is a proposal for a different way of moving.**
 
@@ -38,6 +36,8 @@ It begins with a simple engineering imperative: **enable automation**.
 Not automation as convenience, nor automation as speed, but automation as *authority*—the means by which rules are not merely declared, but continuously enforced.
 
 In doing so, Élan seeks to create something more enduring: systems that move confidently because their constraints are visible, their intent explicit, and their decisions traceable.
+
+![pont du gard aqueduct](/assets/pont-du-gard-aqueduct.jpg)
 
 ## A unity of intent
 
