@@ -1,7 +1,7 @@
 ---
 author: "Ning Zhao"
 pubDatetime: 2025-12-31T15:18:00Z
-modDatetime: 2025-12-26T15:18:00Z
+modDatetime: 2025-12-31T21:32:00Z
 title: "Élan — An Introduction"
 slug: "elan-an-introduction"
 draft: false
