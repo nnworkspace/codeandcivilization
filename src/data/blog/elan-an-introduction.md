@@ -17,6 +17,8 @@ description: "An introduction to Élan, a workbench for uniting intent, structur
 
 # Élan — An Introduction
 
+![pont du gard aqueduct](/assets/pont-du-gard-aqueduct.jpg)
+
 I am standing today before a repository of files.  
 Not a library, exactly, though it contains laws.  
 Not a factory, though it produces machinery.  
