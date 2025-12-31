@@ -15,8 +15,6 @@ tags:
 description: "An introduction to Élan, a workbench for uniting intent, structure, and execution in complex systems."
 ---
 
-# Élan — An Introduction
-
 I am standing today before a repository of files.  
 Not a library, exactly, though it contains laws.  
 Not a factory, though it produces machinery.  
