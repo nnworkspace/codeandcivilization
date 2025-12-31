@@ -15,7 +15,7 @@ tags:
 description: "An introduction to Élan, a workbench for uniting intent, structure, and execution in complex systems."
 ---
 
-I am standing today before a repository of files.  
+I am standing today before [a repository of files](https://github.com/nnworkspace/elan).  
 Not a library, exactly, though it contains laws.  
 Not a factory, though it produces machinery.  
 It is, simply, a folder structure on a hard drive.
@@ -71,6 +71,7 @@ Its ambition is modest, but serious: to show that complex things can still be bu
 
 And that momentum, when disciplined, need not lead us astray.
 
+_A companion essay, [**The Drift**](https://code-and-civilisation.vercel.app/posts/elan-creation-note), reflects on the conditions under which Élan was created, and on what its visible imperfections reveal about governance, enforcement, and time._
 
 ---
 
