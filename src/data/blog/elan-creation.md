@@ -14,7 +14,7 @@ description: "Why intelligence is not enough: observing the drift of advanced AI
 
 ---
 
-(Note: This essay accompanies [_Élan — An Introduction_](https://code-and-civilisation.vercel.app/posts/elan-an-introduction). Where the introduction describes what Élan seeks to be, this piece reflects on how it came into being, and what its visible inconsistencies have to teach.)
+_Note: This essay accompanies [_Élan — An Introduction_](https://code-and-civilisation.vercel.app/posts/elan-an-introduction). Where the introduction describes what Élan seeks to be, this piece reflects on how it came into being, and what its visible inconsistencies have to teach._
 
 ![stone scaffolding](/assets/stone-scaffolding.jpg)
 
