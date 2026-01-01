@@ -12,6 +12,7 @@ tags:
   - systems-thinking
   - essay
   - regulated-industries
+  - elan
 description: "An introduction to Élan, a workbench for uniting intent, structure, and execution in complex systems."
 ---
 
