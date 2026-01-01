@@ -9,12 +9,16 @@ tags:
   - governance
   - systems-thinking
   - artificial-intelligence
+  - AI-limitations
   - philosophy
+  - essay
+  - elan
+
 description: "Why intelligence is not enough: observing the drift of advanced AI agents when they are given narrative rules without mechanical constraints."
 
 ---
 
-_Note: This essay accompanies [_Élan — An Introduction_](https://code-and-civilisation.vercel.app/posts/elan-an-introduction). Where the introduction describes what Élan seeks to be, this piece reflects on how it came into being, and what its visible inconsistencies have to teach._
+_Note: This essay accompanies [_Élan — A Concise Overview_](https://code-and-civilisation.vercel.app/posts/elan-overview) and [_Élan — An Introduction_](https://code-and-civilisation.vercel.app/posts/elan-an-introduction). Where those texts describe what Élan is, this essay reflects on how it came into being, and what its visible inconsistencies have to teach._
 
 ![stone scaffolding](/assets/stone-scaffolding.jpg)
 

@@ -6,7 +6,7 @@ title: "Élan — A Concise Overview"
 slug: "elan-overview"
 draft: false
 tags:
-    - governance
+    - project-governance
     - automation
     - systems-engineering
     - software-architecture

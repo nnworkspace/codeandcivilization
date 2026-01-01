@@ -38,6 +38,8 @@ In doing so, Élan seeks to create something more enduring: systems that move co
 
 ![pont du gard aqueduct](/assets/pont-du-gard-aqueduct.jpg)
 
+Readers who prefer a brief, feature-oriented summary may wish to begin with [Élan — A Concise Overview](https://code-and-civilisation.vercel.app/posts/elan-overview) before continuing with this essay.
+
 ## A unity of intent
 
 Most institutions suffer from a quiet fracture. Lawyers write rules in prose. Engineers write logic in code. Managers track progress in dashboards. Each group works competently, yet the whole struggles to remember why it moves as it does.

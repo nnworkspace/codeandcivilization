@@ -6,7 +6,7 @@ export const SITE = {
   title: "Code and Civilisation",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerIndex: 10,
+  postPerIndex: 8,
   postPerPage: 10,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
