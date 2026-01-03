@@ -35,7 +35,10 @@ const {
   hideEditPost,
 } = post.data;
 
-const { Content } = await render(post);
+const { Content, remarkPluginFrontmatter } = await render(post);
+
+// Extract the reading time from the render result
+const minutesRead = remarkPluginFrontmatter.minutesRead;
 
 let ogImageUrl: string | undefined;
 
@@ -109,15 +112,22 @@ const nextPost =
         </>
       )}
 
+        {minutesRead && (
+            <>
+            <span aria-hidden="true"> | </span>
+            <span class="font-medium">{minutesRead}</span>
+            </>
+        )}
+
       {/* Existing Edit Page Link */}
-      <span
+      <!-- span
         aria-hidden="true"
         class:list={[
           "max-sm:hidden",
           { hidden: !SITE.editPost.enabled || hideEditPost },
         ]}>|</span
       >
-      <EditPost {hideEditPost} {post} class="max-sm:hidden" />
+      <EditPost {hideEditPost} {post} class="max-sm:hidden" / -->
     </div>
     <article
       id="article"
