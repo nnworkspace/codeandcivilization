@@ -36,7 +36,7 @@ Not automation as convenience, nor automation as speed, but automation as *autho
 
 In doing so, Élan seeks to create something more enduring: systems that move confidently because their constraints are visible, their intent explicit, and their decisions traceable.
 
-![pont du gard aqueduct](/assets/pont-du-gard-aqueduct.jpg)
+![pont du gard aqueduct](@/assets/images/pont-du-gard-aqueduct.jpg)
 
 Readers who prefer a brief, feature-oriented summary may wish to begin with [Élan — A Concise Overview](https://code-and-civilisation.vercel.app/posts/elan-overview) before continuing with this essay.
 
