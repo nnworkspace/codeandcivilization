@@ -39,14 +39,15 @@ In the seventeenth and eighteenth centuries, this impulse found expression in wh
 
 They shared no ruler and acknowledged no single doctrine. They differed sharply in temperament and belief, yet understood themselves to be citizens of the same country. What bound them were standards: of evidence, of argument, and of courtesy. Knowledge, in this world, was not a possession to be hoarded, but a light to be shared.
 
-![The Republic of Letters, imagined.](@/assets/images/republic-of-letters.png)
+![The Republic of Letters, imagined.](@/assets/images/republic-of-letters-vermeer.png)
 <figure>
-  <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
-    <em>The Republic of Letters, imagined.</em><br>
-    AI-generated composite inspired by early modern European thinkers
-    (René Descartes, Isaac Newton, Gottfried Wilhelm Leibniz, John Locke, Voltaire),
-    and by the visual language of <em>Civilisation</em> (BBC, 1969).
+  <figcaption style="font-size: 0.8em; color: #666; margin-top: 0.5em; line-height: 1.4;">
+  <em>The Republic of Letters, imagined.</em><br>
+  AI-generated composite inspired by early modern European thinkers
+  (René Descartes, Gottfried Wilhelm Leibniz, Isaac Newton, Voltaire,
+  John Locke, Baruch Spinoza).
   </figcaption>
+
 </figure>
 
 For a long time, this spirit receded from view. The industrial age taught us the virtues of enclosure. We built fences around land, walls around factories, and increasingly, legal barriers around ideas. Where value was material, scarce, and costly to produce, ownership became the principal means by which it was recognised and protected — and it still serves us well.
