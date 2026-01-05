@@ -4,7 +4,7 @@ pubDatetime: 2026-01-15T15:18:00Z
 modDatetime: 2026-01-15T21:32:00Z
 title: "Civilisation Episode 14: The Invisible Commons" 
 slug: "civ-14-the-invisible-commons"
-draft: true
+draft: false
 tags:
   - civilisation
   - technology
@@ -59,17 +59,23 @@ They remain fragile. They are easily misunderstood, and easily neglected. Yet up
 
 ## III. Tim Berners-Lee — The Act of Courtesy
 
-The reordering of our digital world began, fittingly, not in a marketplace, but in a place of inquiry. By the late 1980s, computers were already powerful and networks increasingly widespread, yet information remained confined within isolated systems. To move from one to another required a change of language, a change of protocol, often a change of machine. Knowledge existed, but it was enclosed.
+![Tim Berners-Lee, father of the World Wide Web.](@/assets/images/berneslee-940701.JPG)
 
-Tim Berners-Lee, then working as a physicist and engineer, saw this fragmentation not simply as a technical inconvenience, but as a failure of connection. He proposed a simple remedy: a way for documents on different computers to be linked together, addressed through common rules, and read by anyone connected to the network. The technical means were modest. The implications were not.
+<figcaption style="font-size: 0.85em; color: #666; margin-top: 0.5rem;">
+  Tim Berners-Lee at CERN, 1994 (CERN Document Server image CERN-GE-9407011-31).  
+  Source: <a href="https://cds.cern.ch/images/CERN-GE-9407011-31" target="_blank" rel="noopener noreferrer">cds.cern.ch</a>.
+</figcaption>
 
-What followed mattered less because of what he invented than because of what he chose not to do.
 
-At the time, the prevailing logic was clear. New technologies were enclosed, patented, licensed. They became assets, and then territories. This approach had shaped much of the modern world, and often to good effect. But Berners-Lee declined it. He did not claim ownership of the Web, nor place it behind fees or permissions. Instead, he released its protocols openly, allowing anyone to use and build upon them.
+The reordering of our digital world began, fittingly, not in a marketplace, but in a place of inquiry. By the late 1980s, computers were already powerful and networks increasingly widespread, yet information remained confined within isolated systems. To move from one to another required a change of language, protocol, or machine. Knowledge existed, but it did not yet flow.
 
-This decision was quiet, almost administrative in appearance, yet it proved decisive. A system intended to connect the world could not begin by demanding entry. By refusing to own the Web, Berners-Lee allowed it to function as neutral ground — a public space without a gatekeeper.
+Tim Berners-Lee, then working as a physicist and engineer, recognised in this fragmentation something deeper than technical inconvenience: an obstacle to the exchange of ideas. He proposed a simple remedy: a way for documents on different computers to be linked together, addressed through common rules, and retrieved by anyone connected to the network. The means were spare—uniform addresses, shared protocols, plain documents. 
 
-Clark once described courtesy as the discipline by which we restrain our own claims in order to make room for others. In this sense, the Web was an act of courtesy expressed in technology. Its enduring power lies not only in what it enabled, but in what it declined to become.
+At the time, the prevailing logic was clear. New technologies were enclosed, patented, licensed. They became assets, and then territories. This approach had shaped much of the modern world, and often served it well. But Berners-Lee declined it. He did not claim ownership of the Web, nor place it behind fees or permissions. Instead, he released its protocols openly, allowing anyone to use and build upon them.
+
+The decision appeared almost administrative. In retrospect, it was decisive. A system intended to connect the world could not begin by demanding entry. By refusing to own the Web, Berners-Lee allowed it to function as neutral ground — a public space without a gatekeeper.
+
+Clark once described courtesy as the discipline by which we restrain our own claims in order to make room for others. In this sense, the Web was an act of courtesy expressed in technology. Its enduring power lies as much in its refusals as in its capabilities.
 
 From that restraint flowed much that followed.
 
