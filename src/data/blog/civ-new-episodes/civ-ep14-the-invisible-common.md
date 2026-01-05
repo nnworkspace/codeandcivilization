@@ -4,7 +4,7 @@ pubDatetime: 2026-01-15T15:18:00Z
 modDatetime: 2026-01-15T21:32:00Z
 title: "Civilisation Episode 14: The Invisible Commons" 
 slug: "civ-14-the-invisible-commons"
-draft: false
+draft: true
 tags:
   - civilisation
   - technology
