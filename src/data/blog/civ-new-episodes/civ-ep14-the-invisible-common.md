@@ -67,7 +67,6 @@ They remain fragile. They are easily misunderstood, and easily neglected. Yet up
   Source: <a href="https://cds.cern.ch/images/CERN-GE-9407011-31" target="_blank" rel="noopener noreferrer">cds.cern.ch</a>.
 </figcaption>
 
-
 The reordering of our digital world began, fittingly, not in a marketplace, but in a place of inquiry. By the late 1980s, computers were already powerful and networks increasingly widespread, yet information remained confined within isolated systems. To move from one to another required a change of language, protocol, or machine. Knowledge existed, but it did not yet flow.
 
 Tim Berners-Lee, then working as a physicist and engineer, recognised in this fragmentation something deeper than technical inconvenience: an obstacle to the exchange of ideas. He proposed a simple remedy: a way for documents on different computers to be linked together, addressed through common rules, and retrieved by anyone connected to the network. The means were spare—uniform addresses, shared protocols, plain documents. 
@@ -82,38 +81,60 @@ From that restraint flowed much that followed.
 
 ## IV. Linus Torvalds — Order Without Command
 
+![Linus Torvalds portrait](@/assets/images/Cohen-Linus-Torvalds.webp)
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
+  <em>Linus Torvalds.</em><br>
+  Photograph published by <em>The New Yorker</em>, 2018.
+</figcaption>
+
+
 If the Web was founded on an act of courtesy, the system that made it durable was built on something more bracing: an uncompromising respect for how things actually work.
 
-In the early 1990s, Linus Torvalds, then a student at the University of Helsinki, began writing the core of an operating system. The impulse was not ideological. He was using MINIX, a small teaching system designed by his professor, **Andrew S. Tanenbaum**, as a reference for students. MINIX was elegant in conception and influential in design, but it would not run on Torvalds’s own machine in the way he needed it to.
+In the early 1990s, Linus Torvalds, then a student at the University of Helsinki, began writing the core of an operating system. The impulse was practical rather than ideological. His professor, Andrew S. Tanenbaum, had created MINIX—an elegant, Unix-inspired teaching system—so that students could study the anatomy of an operating system. But MINIX was not intended for everyday use, and it did not run on Torvalds’s own machine in the way he required.
 
-Out of a mixture of curiosity and irritation, he decided to build something that would work for himself. When it reached a point where others might find it useful, he released it with a plain invitation: use it, improve it, tell me what breaks.
+Out of a mixture of curiosity and irritation, he decided to build something that would.
+
+What is striking, even in hindsight, is how complete that decision already was. The earliest public release of Linux was not a sketch or a manifesto. It was a working kernel: multitasking, memory-managed, architecturally coherent. It revealed, from the outset, a deep and practical understanding of how operating systems behave under real constraints. Authority, in this case, did not need to be asserted. It was visible in the code.
+
+![Linus Torvalds, early 1990s.](@/assets/images/linus-young.jpg)
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
+  <em>Linus Torvalds, early 1990s.</em><br>
+  A young student programming without audience, funding, or design committee.
+</figcaption>
+
+When the system reached a point where others might find it useful, Torvalds released it with a plain invitation: use it, improve it, tell me what breaks.
 
 There was no manifesto and no appeal to higher ideals. There was simply work to be done.
 
-He did not come to this pragmatism from a vacuum. He had begun programming at the age of eleven, and grew up in a household where intellectual argument was neither rare nor intimidating. His parents were journalists, his grandfather a statistician. Ideas, facts, and disagreement were part of ordinary conversation, not marks of authority.
+He did not come to this characteristic pragmatism from a vacuum. He had begun programming at the age of eleven, and grew up in a household where intellectual argument was neither rare nor intimidating. His parents were journalists, his grandfather a statistician. Ideas, facts, and disagreement were part of ordinary conversation, not marks of authority.
 
-He was named, with characteristic ambiguity, after Linus Pauling—or, as he later remarked with dry humour, perhaps equally after the Linus from _Peanuts_. The joke is revealing. It suggests a temperament comfortable with seriousness, but resistant to solemnity; respectful of ideas, but impatient with reverence.
+He was named, with ambiguity, after the scientist and peace activist Linus Pauling—or, as he later remarked, perhaps equally after the Linus from _Peanuts_. The joke is revealing. It suggests a temperament comfortable with seriousness, but resistant to solemnity; respectful of ideas, but impatient with reverence.
 
-This background helps us understand why he became a man of such different temperament from the gentle idealists who shaped the early Web. Torvalds was blunt, impatient with pretension, and openly intolerant of poor reasoning. In another setting, such a manner might have proved destructive. In this one, it served a clarifying purpose.
+That impatience would become legendary. Torvalds was blunt, intolerant of sloppy reasoning, and openly dismissive of work that failed to meet clear standards. In another setting, such a manner might have proved destructive. In this one, it served a clarifying purpose.
 
-What emerged around Linux surprised almost everyone. Programmers from across the world began to contribute — not because they were commanded to, but because the standards were clear, and the results both useful and visible. Authority arose where competence was demonstrated. Disputes were frequent, sometimes fierce, but they were settled not by rank, but by the quality of the work itself.
+What emerged around Linux surprised almost everyone. Programmers from across the world began to contribute—not because they were commanded to, and not because they were paid, but because the standards were unmistakable and the results visible. Authority arose where competence was demonstrated. Disputes were frequent, sometimes fierce, but they were settled not by rank, but by the quality of the work itself.
 
 Linux showed that order need not depend on hierarchy. It could arise from shared standards, rigorous review, and a willingness to reject what did not meet them. The collaboration endured not because everyone agreed, but because disagreement was channelled into improvement rather than paralysis.
 
-Today, the result of that discipline is so pervasive that it has become effectively invisible. Linux runs the watch on a wrist and the rocket in the void; it governs the flow of global finance and the monitors of intensive care. The captains of these industries—the banker, the surgeon, the statesman—rely upon it every second of their lives, yet few could tell you its name, or the name of the man who began it. It has become the silent, universal substrate of our civilisation.
+Today, the result of that discipline is so pervasive that it has become effectively invisible. Linux runs the watch on a wrist and the rocket in the void; it governs the flow of global finance and the monitors of intensive care. The banker, the surgeon, and the statesman rely upon it every second of their lives, yet few could name it—or the man who began it. It has become the silent, universal substrate of modern civilisation.
 
-As the project grew, a new problem appeared. The sheer accumulation of changes — the branching paths, conflicting versions, and overlapping experiments — threatened to overwhelm its own history. Torvalds’s response was characteristically direct. He built a tool to address the problem properly.
+As the project grew, a new problem appeared. The accumulation of changes—branching paths, conflicting versions, overlapping experiments—threatened to overwhelm its own history. Torvalds’s response was direct. He built a tool to address the problem properly, from first principles, in a matter of days.
+
+He called it Git.
+
+It is an obstinate word for an obstinate tool. Torvalds explained the choice with a certain wry self-knowledge: “I’m an egotistical bastard, and I name all my projects after myself.” This joke was a refusal to pretend otherwise.
 
 Git altered the way collective memory was handled. Instead of a single, authorised record guarded at the centre, it allowed every participant to hold a complete and inspectable history. Experiments could diverge without endangering the whole, and failures could be acknowledged without erasure. Continuity was preserved without supervision, and responsibility without humiliation.
 
-In civilisational terms, this was no small matter. Git provided what large institutions have always struggled to maintain: a reliable memory that tolerates error while remaining accountable. It made cooperation at scale not merely possible, but sustainable.
+In civilisational terms, this was no small matter. Git provided what large institutions have always struggled to maintain: a reliable memory that tolerates error while remaining accountable. It made cooperation at scale possible, and more importantly, sustainable.
 
-Torvalds rarely spoke of these achievements in elevated language, and perhaps that is part of their strength. He distrusted abstraction and disliked ceremony. Yet through this insistence on standards — sometimes uncomfortable, often demanding — he helped demonstrate that order can emerge without command.
+Torvalds rarely spoke of these achievements in elevated language, and perhaps that is part of their strength. He distrusted abstraction and disliked ceremony. Yet through an insistence on standards—sometimes uncomfortable, often demanding—he demonstrated that order can emerge without command.
 
-If Berners-Lee’s restraint made room for others to enter, Torvalds’s discipline made it possible for them to stay and build.
-
+If Berners-Lee’s restraint made room for others to enter, Torvalds’s discipline made it possible for them to stay—and to build.
 
 ## V. The Open Source Ascent
+
+- be more concrete about the results of the open source movement.
 
 We have spoken of individuals, but civilisation does not advance by solitary effort alone. Ideas endure only when they are taken up, tested, corrected, and carried forward by others. What followed the release of the Web and Linux was therefore not an anomaly, but an ascent — collective, distributed, and largely unplanned.
 
@@ -131,6 +152,8 @@ A way to permanence.
 
 
 ## VI. Larry Page & Sergey Brin — Curiosity as Civic Infrastructure
+
+- worth mentioning: Page and Brin not only had the ambition, but also set out to build the search engine themselves, writing much of the original code. Their technical contribution was not incidental, but central to their achievement. This separates them from many other founders who rely primarily on vision or management, and qualifies them as builders - whose work has a lasting sense, and genuine "God-given geniuses" in Clark's sense.
 
 By the turn of the millennium, the invisible commons had acquired form, memory, and reach. What it lacked was orientation. The Web had become vast, fast, and disordered — a library without a catalogue, growing more confusing by the day.
 
