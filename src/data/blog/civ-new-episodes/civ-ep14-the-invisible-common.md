@@ -172,7 +172,7 @@ Civilisations have always faltered not for lack of knowledge, but for lack of fi
 
 It required a particular kind of genius to address this: not the genius of the poet, who creates new worlds, but the genius of the librarian, who imposes order upon the old.
 
-In the middle 1990s, Larry Page and Sergey Brin, then students at Stanford University,approached this problem with an engineer’s impatience with chaos. They recognised that within the tangled mess of the Web, there lay a hidden structure. Links were more than mere decorations; they were judgments. Every reference implied trust, relevance, and attention. If these signals could be measured, the cacophony of human knowledge might order itself, without the need for a central censor.
+In the mid-1990s, Larry Page and Sergey Brin, then students at Stanford University,approached this problem with an engineer’s impatience with chaos. They recognised that within the tangled mess of the Web, there lay a hidden structure. Links were more than mere decorations; they were judgments. Every reference implied trust, relevance, and attention. If these signals could be measured, the cacophony of human knowledge might order itself, without the need for a central censor.
 
 Page and Brin set out to implement this theory with their own hands. Much of the early system—from the crawling of pages to the ranking of results—was coded by them, tested against the crushing weight of the real Web, and refined through sleepless nights. Their authority rested on a simple, undeniable premise: they had made the thing work.
 
@@ -219,31 +219,55 @@ If the story ended with the triumph of the Web and the ordering of the map, we m
 
 Aaron Swartz stood squarely in that gap.
 
-He was not a titan of industry, nor a holder of office. He was a prodigy, a builder, and — in a deeper sense — a conscience. He belonged naturally to the world of the commons we have been describing, fluent in its technical languages and serious about its moral claims. For him, openness was not a slogan, but a principle to be acted upon.
+![Aaron Swartz and Lawrence Lessig](@/assets/images/Aaron_Swartz_and_Lawrence_Lessig.jpg)
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
+  <em>Aaron Swartz with Lawrence Lessig at the Creative Commons launch party, December 2002.</em><br>
+  Swartz (age 16) and Lessig at the launch party for Creative Commons. Photograph by Gohsuke Takama, originally posted to Flickr and licensed under  
+  <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a>, via  
+  <a href="https://commons.wikimedia.org/wiki/File:Aaron_Swartz_and_Lawrence_Lessig.jpg" target="_blank" rel="noopener">Wikimedia Commons</a>.  
+</figcaption>
 
-His contributions began with something deceptively modest. He helped create Markdown, a way of writing that looks, at first glance, like nothing more than plain text. Yet this simplicity was deliberate. Markdown made structure visible. It reduced friction between human thought and machine process. It rejected the hidden alchemy of proprietary formats in favour of a vernacular that was durable, portable, and intelligible. It was, in its quiet way, a bridge — between writer and reader, between intention and execution.
 
-The implications of this modest design choice extended far beyond writing itself. By making structure explicit and reducing friction, Markdown allowed knowledge to be processed, preserved, and transformed with unusual reliability. Documents became easier to automate, harder to corrupt, and simpler to interpret — not only by machines, but by institutions required to handle vast bodies of text. In this sense, Markdown pointed toward a form of civic legibility: a way in which complex systems might remain intelligible and auditable over time, and through which bureaucratic processes could, at last, be automated with confidence. It was a small tool with unusually large civic consequences.
+Born in 1986 near Chicago, Swartz was a prodigy, a builder, and — in a deeper sense — a conscience. He belonged naturally to the world of the commons we have been describing, fluent in its technical languages and serious about its moral claims. For him, openness was a principle to be acted upon.
 
-But Swartz’s concern for access did not end with tools. He saw that while the machinery of the commons had become open, many of the great storehouses of human knowledge remained closed. Scholarly research — much of it publicly funded — was locked behind paywalls, accessible primarily to those already inside the gates. To Swartz, this was not merely inefficient. It was a moral error.
+His contributions began with something deceptively modest. He helped create Markdown, a syntax that appears, at first glance, to be nothing more than plain text. Yet this simplicity was a philosophical choice. By stripping away the complex, fragile interfaces of modern word processing, Markdown liberated the writer to focus on the hierarchy of ideas rather than their ornamentation. It restored a necessary discipline to the act of writing, ensuring that the structure of an argument remained visible, honest, and distinct from its display.
+
+But the implications of this choice extended far beyond the quiet of the study. Swartz understood that for knowledge to endure, it must be separable from the tools used to create it. Because Markdown treated text as structured data, a document was no longer a dead artifact, but an active component of a system. A specification written in this way could be transformed, by the simplest of scripts, into a website, a technical manual, or even executable code. It opened the way for streamlining the chaotic passage from abstract policy to concrete production, creating an unbroken chain between intention and execution.
+
+In this sense, Markdown pointed toward a form of civic legibility: a way in which the vast records of society—its laws, its data, its history—might remain intelligible to both human eyes and machine logic, safe from the rot of proprietary obsolescence. It was a small tool, but it became the essential mortar for a civilisation built on code.
+
+But Swartz’s concern for access did not end with tools. He saw that while the machinery of the commons had become open, many of the great storehouses of human knowledge remained closed. Scholarly research — much of it publicly funded — was locked behind paywalls, accessible primarily to those already inside the gates. To Swartz, this inefficiency rose to the level of moral error.
+
+![Aaron Swartz speaking at a protest against the SOPA and PIPA bills, New York City, 2012.](@/assets/images/aaron-swartz-speaking.jpg)
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
+  <em>Aaron Swartz speaking at a protest against the SOPA and PIPA bills, New York City, 2012.</em><br>
+  Photograph originally published by DNAinfo New York, January 2013.  
+  Source: <a href="https://www.dnainfo.com/new-york/20130113/crown-heights/neighbors-recall-web-ingenue-as-recluse-following-suicide/" target="_blank" rel="noopener">DNAinfo</a>.
+</figcaption>
 
 His response was literal and uncompromising. In 2011, he attempted to make available a large body of academic work, not for profit, but as an assertion of principle. It was an act of civil disobedience, closer in spirit to the old librarians than to the modern hacker stereotype. Where the digital world saw a custodian of knowledge, the institution saw a violator of rules.
 
-The collision was severe. Swartz encountered a legal and prosecutorial machinery calibrated for deterrence rather than judgment, for example rather than proportion. The weight of the response far exceeded the scale of the act. What followed is well known, and remains difficult to contemplate.
+The collision was severe. Swartz encountered a legal and prosecutorial machinery calibrated for deterrence rather than judgment, and example rather than proportion. The weight of the response far exceeded the scale of the act. What followed is well known, and remains difficult to contemplate.
 
-It would be easy, at this point, to simplify the story — to assign villains and heroes, to turn tragedy into rhetoric. That would be a mistake. The institutions involved were not animated by cruelty, nor was Swartz driven by recklessness. What failed here was something more elusive: a shared understanding of how ideals, once embedded in technology, should be reflected in law.
+It would be easy, at this point, to simplify the story — to assign villains and heroes, to turn tragedy into rhetoric. That would be a mistake. The institutions acted from procedure, Swartz from conviction. What failed here was something more elusive: a shared understanding of how ideals, once embedded in technology, should be reflected in law.
  
-Clark once insisted that civilisation depends not only on knowledge, but on sympathy — on the capacity to recognise ourselves in others. The tragedy lay not in martyrdom, but in a collision: between a commons that had learned to move, and institutions that had not yet learned how to follow. Swartz’s life and death force an uncomfortable question: whether a society that builds its future on openness can afford to treat its most literal adherents as adversaries.
+Clark once insisted that civilisation depends not only on knowledge, but on sympathy — on the capacity to recognise ourselves in others. The tragedy took the form of a collision: between a commons that had learned to move, and institutions that had not yet learned how to follow. Swartz’s life and death force an uncomfortable question: whether a society that builds its future on openness can afford to treat its most literal adherents as adversaries.
  
-His story marks the point at which the invisible commons ceased to be merely a technical achievement, and became a moral test. It revealed that access, order, and power cannot be aligned by engineering alone. They require judgment, restraint, and, above all, proportion.
+His story marks the point at which the invisible commons ceased to be merely a technical achievement, and became a moral test. It revealed that access, order, and power cannot be aligned by engineering alone. They require judgment and restraint — and, above all, a sense of proportion.
 
 In the years that followed, the shock of this failure was not entirely absorbed in silence. Laws were re-examined, prosecutorial practices questioned, and the assumption that access could be criminalised without consequence began, slowly, to weaken. Institutions did not become wiser overnight — but they became more aware.
 
-Civilisation learns unevenly, and often at great cost. Its progress has rarely depended on perfect obedience, and still less on moral comfort. Again and again, it has been forced forward by individuals willing to test the distance between what is lawful and what is just — and to bear the consequences of that test.
+Civilisation learns unevenly, and often at great cost — usually after the fact. Its progress has rarely depended on perfect obedience, and still less on moral comfort. Again and again, it has been forced forward by individuals willing to test the distance between what is lawful and what is just — and to bear the consequences of that test.
 
-If there is any consolation to be found here, it lies not in resolution, but in memory. Swartz’s insistence did not vanish with him. It entered the moral consciousness of the commons itself, where future generations may yet recognise that law, like technology, must be revised in the light of human consequence.
+Any consolation that remains lies in memory. Swartz’s insistence did not vanish with him. It entered the moral consciousness of the commons itself, where future generations may yet recognise that law, like technology, cannot remain untouched by human consequence.
 
-In early 2025, a statue of Aaron Swartz was unveiled in the lobby of the **Internet Archive** in San Francisco — an institution dedicated to preserving the world’s knowledge and keeping it accessible. The statue does not stand in a courthouse or a seat of power, but in a place of memory and use. It marks no victory, announces no verdict, and offers no absolution.
+In February 2025, a bust of Aaron Swartz was unveiled in the lobby of the Internet Archive in San Francisco — an institution dedicated to preserving the world’s knowledge and keeping it accessible. Its placement is telling: among readers, archives, and use, rather than courts or seats of power. It marks no victory, announces no verdict, and offers no absolution.
+
+![Aaron Swartz bust](@/assets/images/aaron-swartz-bust.webp)
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
+  <em>Marble statue of Aaron Swartz unveiled at the Internet Archive lobby, San Francisco, February 2025.</em><br>
+  Photograph published by <a href="https://sfstandard.com/2025/02/08/aaron-swartz-marble-statue-unveiled-internet-archive/" target="_blank" rel="noopener">The San Francisco Standard</a>.
+</figcaption>
 
 It simply reminds those who pass beneath it that the commons was not built by compliance alone — and that civilisation, if it is to endure, must always leave room for conscience to speak before the law has learned how to listen.
 
