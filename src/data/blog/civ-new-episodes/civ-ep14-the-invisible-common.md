@@ -4,7 +4,7 @@ pubDatetime: 2026-01-15T15:18:00Z
 modDatetime: 2026-01-15T21:32:00Z
 title: "Civilisation Episode 14: The Invisible Commons" 
 slug: "civ-14-the-invisible-commons"
-draft: true
+draft: false
 tags:
   - civilisation
   - technology
@@ -316,4 +316,12 @@ The digital world now shapes how we learn, how we work, how we remember, and how
 Civilisation has always been a provisional achievement. It must be built, maintained, and renewed by each generation. The invisible commons will endure only if it is treated as a trust.
 
 And that, perhaps, is the measure of our moment: not whether we can build systems of astonishing complexity, but whether we can give them the forms, the sympathy, and the permanence required to make them worthy of civilisation itself.
+
+![Kenneth Clark looking outward](@/assets/images/clark-civ.jpg)
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
+  <em>Kenneth Clark.</em><br>
+  Photograph via <a href="https://www.bbc.co.uk/mediacentre/latestnews/2014/kenneth-clark-civilisation" target="_blank" rel="noopener noreferrer">BBC Media Centre</a>,
+  from coverage of <strong>Civilisation: A Personal View</strong>.
+</figcaption>
+
 
