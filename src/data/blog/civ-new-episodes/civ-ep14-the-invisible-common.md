@@ -2,7 +2,7 @@
 author: Ning Zhao
 pubDatetime: 2026-01-07T00:25:00Z
 modDatetime: 2026-01-07T08:58:00Z
-title: "Civilisation Episode 14: The Invisible Commons" 
+title: "Civilisation XIV: The Invisible Commons" 
 slug: "civ-14-the-invisible-commons"
 ogImage: ../../../assets/images/og-civ-ep14.png # src/assets/images/example.png
 draft: false
