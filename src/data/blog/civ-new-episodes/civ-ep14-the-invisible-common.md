@@ -26,20 +26,19 @@ When this series last ended in 1969, Kenneth Clark left behind an unease. The mo
   BBC Television, 1969.
 </figcaption>
 
+In the decades since, progress has only accelerated. Communication has become global, calculation instantaneous, and information pervasive. These achievements deserve admiration. Yet we have learned that power is distinct from civilisation, just as abundant energy is distinct from order. Without shared forms—without agreement about how knowledge is shaped, preserved, and handed on—progress is empty motion.
 
-In the decades since, progress has only accelerated. Communication has become global, calculation instantaneous, and information pervasive. These achievements are remarkable. But power alone does not create civilisation. Energy, however abundant, does not by itself produce order. Without shared forms — without agreement about how knowledge is shaped, preserved, and handed on — progress becomes empty motion.
+And yet, civilisation held.
 
-And yet civilisation did not collapse.
-
-We did not abandon the physical world — we still enjoy good food, need sleep, and seek shelter from the cold. But the centre of our shared life began to shift. Increasingly, what mattered most was not the mass of things we possessed, but the structures through which we cooperated: the ways knowledge was recorded, shared, corrected, and carried forward. In these invisible arrangements, civilisation found new means of continuity.
+We did not abandon the physical world — we still enjoy good food, need sleep, and seek shelter from the cold. But the centre of our shared life began to shift. Gradually, attention shifted away from the sheer accumulation of things toward the structures that made cooperation possible: the systems by which knowledge was recorded, exchanged, tested, and carried forward. Within these largely unseen arrangementsss, civilisation found new means of continuity.
 
 It is this reconfiguration — subtle, incomplete, and still fragile — that I want to consider here.
 
 ## II. The Invisible Commons
 
-This development was not, in truth, without precedent. Civilisation has never been sustained by authority alone. Even in periods of strong government or settled belief, its real work has relied on voluntary association — on people choosing to cooperate around a shared purpose worth sustaining.
+In truth, this development returns us to an older tradition. Civilisation has rarely been sustained by authority alone. Even in periods of strong government or settled belief, its real work has relied on voluntary association—on the willingness of people to cooperate around a purpose worth sustaining.
 
-In the seventeenth and eighteenth centuries, this impulse found expression in what came to be known as the Republic of Letters. It was a territory defined not by borders, but by ink. Ideas travelled slowly between desks and studies, often ignoring the wars of their kings. A philosopher in Paris could dispute first principles with a mathematician in Cambridge; a writer in exile could remain part of a continental conversation.
+In the seventeenth and eighteenth centuries, this impulse animated the _Republic of Letters_. It was a territory defined by ink. Ideas travelled slowly between desks and studies, often ignoring the wars of their kings. A philosopher in Paris could dispute first principles with a mathematician in Cambridge; a writer in exile could remain part of a continental conversation.
 
 They shared no ruler and acknowledged no single doctrine. They differed sharply in temperament and belief, yet understood themselves to be citizens of the same country. What bound them were standards: of evidence, of argument, and of courtesy. Knowledge, in this world, was not a possession to be hoarded, but a light to be shared.
 
@@ -54,11 +53,11 @@ They shared no ruler and acknowledged no single doctrine. They differed sharply 
 
 </figure>
 
-For a long time, this spirit receded from view. The industrial age taught us the virtues of enclosure. We built fences around land, walls around factories, and increasingly, legal barriers around ideas. Where value was material, scarce, and costly to produce, ownership became the principal means by which it was recognised and protected — and it still serves us well.
+For a long time, this spirit receded from view. The industrial age taught us the virtues of enclosure. We built fences around land, walls around factories, and increasingly, legal barriers around ideas. Where value was material, scarce, and costly to produce, ownership became the principal means of recognition and defence — and it still serves us well.
 
-But toward the end of the twentieth century, a curious pattern re-emerged. Among scientists, engineers, and students working at the edges of a new digital machinery, the established forms of enclosure proved inadequate. To build systems of great complexity with unprecedented reach, one could not behave solely as a proprietor. One had to act, instead, as a participant.
+Toward the end of the twentieth century, however, a curious pattern re-emerged. Among scientists, engineers, and students working at the edges of a new digital machinery, the established forms of enclosure proved inadequate. Building structures of vast complexity and reach required a different posture: one grounded in participation as much as possession.
 
-Gradually, and without central direction, new commons took shape. Spaces in which the work of one person was offered to the use of many; in which contribution mattered more than possession; and in which rules were sustained not by decree, but by shared understanding. These arrangements relied on a quiet optimism — the belief that human beings, given the opportunity, would prefer to build together rather than to destroy alone.
+Gradually, and without central direction, new commons took shape. These are spaces where the work of one person was offered to the use of many; where contribution outweighs possession; and where rules are sustained by shared understanding. These arrangements rely on a quiet optimism — the belief that human beings, given the opportunity, would prefer to build together rather than to destroy alone.
 
 They remain fragile. They are easily misunderstood, and easily neglected. Yet upon this assumption — modest, generous, and profoundly human — much of our contemporary civilisation has come to rest.
 
