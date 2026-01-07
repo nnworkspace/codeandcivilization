@@ -303,17 +303,17 @@ In the end, his contribution reminds us of a truth often obscured by scale and a
 
 ## Peroration — What Endures
 
-We have traced no single doctrine and no settled programme, but a series of human gestures: restraint at the beginning, discipline in the making, generosity in collaboration, conscience under strain, and patience in explanation. Taken together, they suggest that the digital age did not, after all, grow entirely without a centre.
+We have traced a lineage defined less by doctrine than by a series of human gestures: restraint at the beginning, discipline in the making, generosity in collaboration, conscience under strain, and patience in explanation. Taken together, they suggest that the digital age grew around a distinct, if quiet, centre.
 
-That centre is not an institution, nor an ideology, nor a market. It is a set of practices — ways of working, judging, and explaining — through which knowledge is made durable and meaning carried forward. They are largely invisible, easily neglected, yet without them the energy of an age leaves nothing that lasts.
+That centre resides beyond the reach of institutions, ideologies, or markets. It lives in a set of practices—ways of working, judging, and explaining—through which knowledge is made durable and meaning carried forward. They are largely invisible, easily neglected, yet without them the energy of an age leaves nothing that lasts.
 
-Civilisation, as Clark understood, is defined not by brilliance, but by what it chooses to preserve. Permanence is achieved not through speed or scale, but through restraint: the decision not to enclose what could be enclosed; the insistence on standards without command; the willingness to explain again, for the sake of someone still learning. These are not the gestures of conquest. They are the gestures by which civilisation endures.
+Civilisation, as Clark understood, is defined by what it chooses to preserve. Permanence emerges through restraint; through the refusal to enclose what could be enclosed; through standards maintained without command; through explanations offered again, for the sake of someone still learning. Far from the habits of conquest, these are the gestures by which civilisation endures.
 
-Yet they remain fragile. Tools can embody values, but they cannot enforce judgment. Institutions can preserve order, but they do not automatically adapt. Genius can illuminate a path, but it cannot ensure that what is revealed will be used with sympathy or proportion. Again and again, what survives depends less on intelligence than on moral habit.
+Yet they remain fragile. Tools may embody values, yet judgment cannot be automated. Institutions can preserve order, yet adaptation lags behind change. Genius may illuminate a path, yet sympathy and proportion determine how far that path can be followed. Again and again, endurance depends less on intelligence than on moral habit.
 
-The digital world now shapes how we learn, how we work, how we remember, and how we judge one another. Whether it will _lift_ civilisation — or merely accelerate it — remains an open question. The answer lies not in the machines themselves, but in the care with which we choose to use them.
+The digital world now shapes how we learn, how we work, how we remember, and how we judge one another. Whether it will lift civilisation — or merely accelerate it — remains an open question. The answer lies in the care with which these systems are used, extended, and restrained.
 
-Civilisation has always been a provisional achievement. It is not something we inherit intact, but something we are asked to build — and then to maintain. The invisible commons will endure only if it is treated not as a possession, but as a trust.
+Civilisation has always been a provisional achievement. It must be built, maintained, and renewed by each generation. The invisible commons will endure only if it is treated as a trust.
 
 And that, perhaps, is the measure of our moment: not whether we can build systems of astonishing complexity, but whether we can give them the forms, the sympathy, and the permanence required to make them worthy of civilisation itself.
 
