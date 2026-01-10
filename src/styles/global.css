@@ -1,5 +1,4 @@
 @import "tailwindcss";
-@import url("https://use.typekit.net/gqg4koo.css");
 @import "./typography.css";
 
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
