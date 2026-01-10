@@ -98,7 +98,7 @@ In the early 1990s, Linus Torvalds, then a student at the University of Helsinki
 
 Out of a mixture of curiosity and irritation, he decided to build something that would.
 
-What is striking, even in hindsight, is how complete that decision already was. The earliest public release of Linux was not a sketch or a manifesto. It was a working kernel: multitasking, memory-managed, architecturally coherent. It revealed, from the outset, a deep and practical understanding of how operating systems behave under real constraints. Authority, in this case, did not need to be asserted. It was visible in the code.
+What is striking, even in hindsight, is how complete that decision already was. The earliest public release of Linux was more than a sketch. It was a working kernel: multitasking, memory-managed, architecturally coherent. It revealed, from the outset, a deep and practical understanding of how operating systems behave under real constraints. Authority, in this case, did not need to be asserted. It was visible in the code.
 
 ![Linus Torvalds, early 1990s.](@/assets/images/linus-young.jpg)
 <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
@@ -116,9 +116,9 @@ He was named, with ambiguity, after the scientist and peace activist Linus Pauli
 
 That impatience would become legendary. Torvalds was blunt, intolerant of sloppy reasoning, and openly dismissive of work that failed to meet clear standards. In another setting, such a manner might have proved destructive. In this one, it served a clarifying purpose.
 
-What emerged around Linux surprised almost everyone. Programmers from across the world began to contribute—not because they were commanded to, and not because they were paid, but because the standards were unmistakable and the results visible. Authority arose where competence was demonstrated. Disputes were frequent, sometimes fierce, but they were settled not by rank, but by the quality of the work itself.
+What emerged around Linux surprised almost everyone. Programmers from across the world began to contribute—not because they were commanded to, but because the standards were unmistakable, and the results were useful and visible. Authority arose where competence was demonstrated. Disputes were frequent, sometimes fierce, but they were settled by the quality of the work itself.
 
-Linux showed that order need not depend on hierarchy. It could arise from shared standards, rigorous review, and a willingness to reject what did not meet them. The collaboration endured not because everyone agreed, but because disagreement was channelled into improvement rather than paralysis.
+Linux showed that order need not depend on hierarchy. It could arise from shared standards, rigorous review, and a willingness to reject what failed to meet them. The collaboration survived and thrived, because disagreement was channelled into improvement rather than paralysis.
 
 Today, the result of that discipline is so pervasive that it has become effectively invisible. Linux runs the watch on a wrist and the rocket in the void; it governs the flow of global finance and the monitors of intensive care. The banker, the surgeon, and the statesman rely upon it every second of their lives, yet few could name it—or the man who began it. It has become the silent, universal substrate of modern civilisation.
 
