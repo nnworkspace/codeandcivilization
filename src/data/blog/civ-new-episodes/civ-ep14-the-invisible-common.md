@@ -163,7 +163,7 @@ What emerged was neither a utopia nor a rebellion against institutions. It was a
 
 It was a modest beginning, and an unfinished one. But it marked something new in the history of civilisation: a means by which collective effort could outlast enthusiasm, survive disagreement, and leave behind structures strong enough to build upon.
 
-A way, at last, toward permanence.
+A way toward permanence.
 
 
 ## VI. Larry Page & Sergey Brin — Curiosity as Civic Infrastructure
