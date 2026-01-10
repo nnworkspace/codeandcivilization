@@ -3,18 +3,32 @@
 @layer base {
   /* ===== Override default Tailwind Typography styles ===== */
   .app-prose {
-    @apply prose;
+    @apply prose font-sans;
+    @apply text-base leading-[1.65] tracking-[0.01em];
+    max-width: 68ch;
 
     h1,
     h2,
     h3,
     h4,
     th {
-      @apply mb-3 text-foreground;
+      @apply mb-3 text-foreground font-serif;
     }
 
     h3 {
       @apply italic;
+    }
+
+    h1 {
+      @apply text-4xl leading-tight tracking-tight mt-16 mb-6;
+    }
+
+    h2 {
+      @apply text-2xl leading-snug tracking-tight mt-14 mb-5;
+    }
+
+    h3 {
+      @apply text-xl leading-snug mt-10 mb-4;
     }
 
     p,
@@ -26,6 +40,11 @@
     code {
       @apply text-foreground;
     }
+
+    p {
+      @apply my-6;
+    }
+
 
     a {
       @apply break-words text-foreground decoration-dashed underline-offset-4 hover:text-accent focus-visible:no-underline;
@@ -75,8 +94,9 @@
     }
 
     blockquote {
-      @apply border-s-accent/80 break-words opacity-80;
+      @apply border-s-accent/80 pl-6 italic opacity-90 my-10;
     }
+
 
     details {
       @apply inline-block cursor-pointer text-foreground select-none [&_p]:hidden [&_ul]:!my-0;
