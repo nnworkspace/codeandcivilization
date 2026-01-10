@@ -29,7 +29,7 @@ html[data-theme="dark"] {
     --color-border: var(--border);
 
     --font-sans: "Hanken Grotesk", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-    --font-serif: adobe-garamond-pro, Georgia, serif;
+    --font-serif: "adobe-garamond-pro", Georgia, serif;
 }
 
 @layer base {
