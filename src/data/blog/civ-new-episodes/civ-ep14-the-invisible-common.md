@@ -172,9 +172,9 @@ Civilisations have always faltered not for lack of knowledge, but for lack of fi
 
 It required a particular kind of genius to address this: not the genius of the poet, who creates new worlds, but the genius of the librarian, who imposes order upon the old.
 
-In the mid-1990s, Larry Page and Sergey Brin, then students at Stanford University,approached this problem with an engineer’s impatience with chaos. They recognised that within the tangled mess of the Web, there lay a hidden structure. Links were more than mere decorations; they were judgments. Every reference implied trust, relevance, and attention. If these signals could be measured, the cacophony of human knowledge might order itself, without the need for a central censor.
+In the mid-1990s, Larry Page and Sergey Brin, then students at Stanford University, approached this problem with an engineer’s impatience with chaos. They recognised that within the tangled mess of the Web, there lay a hidden structure. Links were more than mere decorations; they were judgments. Every reference implied trust, relevance, and attention. If these signals could be measured, the cacophony of human knowledge might order itself, without the need for a central censor.
 
-Page and Brin set out to implement this theory with their own hands. Much of the early system—from the crawling of pages to the ranking of results—was coded by them, tested against the crushing weight of the real Web, and refined through sleepless nights. Their authority rested on a simple, undeniable premise: they had made the thing work.
+Page and Brin set out to implement this theory with their own hands. Much of the early system — from the crawling of pages to the ranking of results — was coded by them, tested against the crushing weight of the real Web, and refined through sleepless nights. Their authority rested on a simple, undeniable premise: they had made the thing work.
 
 Their ambition, expressed with an engineer’s disarming simplicity, was among the broadest in human history:
 > Basically, our goal is to organize the world’s information and to make it universally accessible and useful.
