@@ -37,7 +37,7 @@ At the same time, our own technical communities are not immune to distortion. Ex
 
 So rather than laughing, over coffee, at familiar misunderstandings (or perhaps after the laughter has passed), I propose something more useful: to remain grounded, and to explain our craft with clarity, generosity, and restraint. This blog is my modest attempt to do so.
 
-As a child, I loved reading and dreamed of becoming a journalist—someone who could observe carefully, explain patiently, and connect disparate ideas into a coherent whole. Later, Salman Khan became a role model, not only for his mastery of technology, but for his conviction that difficult subjects can be made accessible without being trivialised. In a sense, _Code and Civilisation_ is where those personal ambitions meet my professional life: a place to write about technology not as fashion or spectacle, but as a civilising force—when handled with care.
+As a child, I loved reading and dreamed of becoming a journalist—someone who could observe carefully, explain patiently, and connect disparate ideas into a coherent whole. Later, Sal Khan became a role model, not only for his mastery of technology, but for his conviction that difficult subjects can be made accessible without being trivialised. In a sense, _Code and Civilisation_ is where those personal ambitions meet my professional life: a place to write about technology not as fashion or spectacle, but as a civilising force—when handled with care.
 
 If civilisation is, as Clark suggested, a fragile achievement, then so too are the systems we build today. They deserve our best judgement, our clearest language, and our quiet attention.
 
