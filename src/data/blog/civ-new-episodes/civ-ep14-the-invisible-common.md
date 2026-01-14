@@ -31,7 +31,7 @@ In the decades since, progress has only accelerated. Communication has become gl
 
 And yet, civilisation held.
 
-We did not abandon the physical world — we still enjoy good food, need sleep, and seek shelter from the cold. But the centre of our shared life began to shift. Gradually, attention shifted away from the sheer accumulation of things toward the structures that made cooperation possible: the systems by which knowledge was recorded, exchanged, tested, and carried forward. Within these largely unseen arrangementsss, civilisation found new means of continuity.
+We did not abandon the physical world — we still enjoy good food, need sleep, and seek shelter from the cold. But the centre of our shared life began to shift. Gradually, attention shifted away from the sheer accumulation of things toward the structures that made cooperation possible: the systems by which knowledge was recorded, exchanged, tested, and carried forward. Within these largely unseen arrangements, civilisation found new means of continuity.
 
 It is this reconfiguration — subtle, incomplete, and still fragile — that I want to consider here.
 
