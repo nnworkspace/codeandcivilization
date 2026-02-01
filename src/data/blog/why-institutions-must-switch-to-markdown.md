@@ -17,6 +17,8 @@ description: ""
 
 ---
 
+## I. When Appearance Overrides Structure
+
 In the most superficial sense, Markdown is about documents.
 
 Most people in traditional institutions are familiar with editors like Microsoft Word. In that world, how a document looks often dominates what it means. Semantic structure is not embedded in the format itself; it must be inferred from visual appearance.
@@ -43,9 +45,9 @@ Appearance is not sacrificed. Markdown documents can be transformed into HTML, P
 
 Up to this point, Markdown may still appear to be a tool that makes writing easier and rendering prettier.
 
-That is not the important point.
+That is not the key point.
 
----
+## II. When Governance Lives Apart from Execution
 
 The real challenge in large institutional programmes is not documents. It is governance, execution, and durability.
 
@@ -56,9 +58,9 @@ Documents exist in multiple inconsistent copies, and it becomes difficult to tel
 Engineers often cannot explain why a system behaves the way it does, only weeks after implementing it and closing the ticket.
 
 When governance is external to the engineering workflow, drift is inevitable:  
-understanding drifts from past decisions, documents drift from one another, requirements drift from policy intent, and implementations drift from requirements. 
+understanding drifts from past decisions, documents drift from one another, requirements drift from policy intent, and implementations drift from requirements.
 
-Much has been adopted about Agile over the past twenty years — roles, ceremonies, metrics. But one decisive principle is often overlooked:
+Much has been adopted in the name of Agile over the past twenty years — roles, ceremonies, metrics. But one decisive principle is often overlooked:
 
 > Everything close to the code — ideally, everything — should be expressed as code.
 
@@ -85,4 +87,28 @@ If an institution is like a great Renaissance structure, Markdown is the mortar 
 In this sense, Markdown is not a formatting tool.
 
 It is civil infrastructure.
+
+## III. A Workbench for Durable Intent
+
+This way of thinking is not theoretical for me.
+
+Over the past years, working in large-scale institutional programmes, I repeatedly encountered the same pattern: capable people, good intentions, modern tooling — yet persistent coordination problems caused not by lack of skill, but by the absence of shared, structured, versioned governance artefacts.
+
+During a short break at the end of last year, I decided to turn these observations into something tangible. The result is a demonstrative governance workbench called **Élan**.
+
+Élan is not a tool and not a methodology. It is a concrete example of how policy texts, rulebooks, specifications, tests, code, reports, and automation can live together in a single Git-based environment, all documents written in Markdown, all versioned, and all mechanically enforceable.
+
+It shows what happens when governance is treated not as documentation, but as part of the system itself.
+
+If the ideas in this essay resonate with you, you may find Élan a useful illustration of how Markdown and Git can become the backbone of institutional-scale projects:
+
+- 📦 **The Élan workbench (GitHub)**  
+  https://github.com/nnworkspace/elan
+
+- ⚙️ **Élan — A Concise Overview**  
+  https://code-and-civilisation.vercel.app/posts/elan-overview
+
+- 📖 **Élan — An Introduction**  
+  https://code-and-civilisation.vercel.app/posts/elan-an-introduction
+
 
