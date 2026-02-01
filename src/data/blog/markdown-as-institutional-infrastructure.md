@@ -76,7 +76,7 @@ When policy documents, decisions, requirements, and governance artefacts are wri
 
 This co-location of governance artefacts with engineering artefacts is often far more important than the physical co-location of people. It makes order, consistency, resilience, and durability easier to achieve in large-scale programmes.
 
-With Markdown in Git, dependence on scattered document servers and collaboration tools is reduced. Licensing and operational costs fall, but more importantly, coherence increases. Governance scales across globally distributed teams and survives staff turnover.
+With Markdown in Git, dependence on scattered document servers and collaboration tools is reduced. Licensing and operational costs fall, many meetings become unnecessary, but more importantly, coherence increases. Governance scales across globally distributed teams and survives staff turnover.
 
 Large-scale projects such as the Linux kernel, European Digital Identity, or Ethereum rely not on meetings, but on clear governance artefacts in Git and mechanical enforcement through automation. If this approach can sustain such projects, it can sustain large programmes in public institutions as well.
 
