@@ -2,8 +2,8 @@
 author: "Ning Zhao"
 pubDatetime: 2026-02-01T08:51:00Z
 modDatetime: 2026-02-01T08:51:00Z
-title: "Why Your Institution Must Switch to Markdown"
-slug: "why-your-institution-must-switch-to-markdown"
+title: "Markdown as Institutional Infrastructure"
+slug: "markdown-as-institutional-infrastructure"
 draft: true
 tags: 
   - governance
