@@ -90,9 +90,9 @@ In this sense, Markdown is not a formatting tool.
 
 It is civil infrastructure.
 
-![The Marciana Library](@/assets/images/marciana-library-venice.webp)
+![The Biblioteca Nazionale Marciana in Venice — a Renaissance structure dedicated to the preservation and ordering of knowledge across centuries.](@/assets/images/marciana-library-venice.webp)
 <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
-  <em>The Marciana Library, Venice, Italy.</em><br>
+  <em>The Biblioteca Nazionale Marciana in Venice — a Renaissance structure dedicated to the preservation and ordering of knowledge across centuries.</em><br>
   Credit: robodread / Getty Images
 </figcaption>
 
