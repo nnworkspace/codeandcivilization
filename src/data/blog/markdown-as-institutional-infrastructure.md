@@ -33,7 +33,7 @@ Another technical dimension of this problem is that most common document formats
 
 And then there is the human side.
 
-Most people do not remember where to click to achieve a specific visual effect. Writing a document is easy to start, but surprisingly hard to master. Attention drifts from *what needs to be said* to *how it should look*.
+Most people do not remember where to click to achieve a specific visual effect. Writing a document is easy to start, but hard to master. Attention drifts from *what needs to be said* to *how it should look*.
 
 Attempts have been made to address these problems. LaTeX, for example, stores documents as structured text, but is too complex for everyday institutional use. HTML is also text-based, but too verbose and not designed for comfortable human writing.
 
