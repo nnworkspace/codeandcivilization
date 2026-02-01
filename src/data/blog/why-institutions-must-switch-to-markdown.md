@@ -25,7 +25,7 @@ Writers have many ways to decorate their meaning. The abundance of formatting op
 
 As a consequence, in any modern workflow where documents must be processed by other software, extracting reliable semantic structure becomes difficult.
 
-Another technical dimension to this problem is, most common document formats are proprietary and defined by complex schemas. High-quality, low-cost processing tools — essential in an automation-heavy environment — are rare. Even when such tools exist, the technical complexity of the document format makes the parsing logic difficult to maintain and evolve, generating technical debt and friction across the application landscape of the institution.
+Another technical dimension of this problem is that most common document formats are proprietary and defined by complex schemas. High-quality, low-cost processing tools — essential in an automation-heavy environment — are rare. Even when such tools exist, the complexity of the format makes the parsing logic difficult to maintain and evolve, generating technical debt and friction across the application landscape of the institution.
 
 And then there is the human side.
 
@@ -51,14 +51,14 @@ The real challenge in large institutional programmes is not documents. It is gov
 
 Decisions live in meetings and are later filed away in memos.  
 Formal requirements live in ticket systems as “stories.”  
-Critical business rules live in legacy code, in forgotten or outdated documents, or in people’s heads.
-Documents have inconsistent copies in different places, and it is hard to tell which one is the authoritative source.
-Engineers cannot explain why a system works the way it does, just several weeks after implementing it and the ticket was closed.
+Critical business rules live in legacy code, in forgotten or outdated documents, or in people’s heads.  
+Documents exist in multiple inconsistent copies, and it becomes difficult to tell which one is authoritative.  
+Engineers often cannot explain why a system behaves the way it does, only weeks after implementing it and closing the ticket.
 
 When governance is external to the engineering workflow, drift is inevitable:  
-requirements drift from policy intent, implementations drift from requirements, understanding drifts from the decisions once made, and same documents drift from different sources.
+understanding drifts from past decisions, documents drift from one another, requirements drift from policy intent, and implementations drift from requirements. 
 
-Much has been promoted about Agile over the past twenty years — roles, ceremonies, metrics. But one decisive principle is often overlooked:
+Much has been adopted about Agile over the past twenty years — roles, ceremonies, metrics. But one decisive principle is often overlooked:
 
 > Everything close to the code — ideally, everything — should be expressed as code.
 
@@ -85,13 +85,4 @@ If an institution is like a great Renaissance structure, Markdown is the mortar 
 In this sense, Markdown is not a formatting tool.
 
 It is civil infrastructure.
-
-
-
-
-
-
-
-
-
 
