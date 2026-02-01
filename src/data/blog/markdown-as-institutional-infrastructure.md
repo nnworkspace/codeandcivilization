@@ -1,7 +1,7 @@
 ---
 author: "Ning Zhao"
 pubDatetime: 2026-02-01T13:42:00Z
-modDatetime: 2026-02-01T13:42:00Z
+modDatetime: 2026-02-01T22:28:00Z
 title: "Markdown as Institutional Infrastructure"
 slug: "markdown-as-institutional-infrastructure"
 ogImage: ../../assets/images/marciana-library-venice.webp
@@ -74,9 +74,9 @@ And the most practical way to apply it is surprisingly simple:
 
 When policy documents, decisions, requirements, and governance artefacts are written in Markdown, they can live in Git repositories alongside the systems they govern. They become discoverable, versioned, comparable over time, and mechanically enforceable by downstream processes — many of which already live in Git.
 
-This co-location of governance artefacts with engineering artefacts is often more important than the physical co-location of people. It makes order, consistency, resilience, and durability easier to achieve in large-scale programmes.
+This co-location of governance artefacts with engineering artefacts is often far more important than the physical co-location of people. It makes order, consistency, resilience, and durability easier to achieve in large-scale programmes.
 
-With Markdown in Git, dependence on scattered document servers and collaboration tools is reduced. Licensing and operational costs fall, but more importantly, coherence increases. Governance scales across distributed teams and survives staff turnover.
+With Markdown in Git, dependence on scattered document servers and collaboration tools is reduced. Licensing and operational costs fall, but more importantly, coherence increases. Governance scales across globally distributed teams and survives staff turnover.
 
 Large-scale projects such as the Linux kernel, European Digital Identity, or Ethereum rely not on meetings, but on clear governance artefacts in Git and mechanical enforcement through automation. If this approach can sustain such projects, it can sustain large programmes in public institutions as well.
 
@@ -104,9 +104,9 @@ Over the past years, working in large-scale institutional programmes, I repeated
 
 During a short break at the end of last year, I decided to turn these observations into something tangible. The result is a demonstrative governance workbench called **Élan**.
 
-Élan is not a tool and not a methodology. It is a concrete example of how policy texts, rulebooks, specifications, tests, code, reports, and automation can live together in a single Git-based environment, all documents written in Markdown, all versioned, and all mechanically enforceable.
+Élan is not a tool and not a methodology. It is a concrete example of how policy texts, rulebooks, specifications, tests, code, reports, and automation can live together in a logically unified, Git-based environment, all documents written in Markdown, all versioned, and all mechanically enforceable.
 
-It shows what happens when governance is treated not as documentation, but as part of the system itself.
+It shows what happens when governance is treated not as external documentation, but as part of the system itself.
 
 If the ideas in this essay resonate with you, you may find Élan a useful illustration of how Markdown and Git can become the backbone of institutional-scale projects:
 
