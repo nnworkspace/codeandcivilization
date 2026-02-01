@@ -1,19 +1,21 @@
 ---
 author: "Ning Zhao"
-pubDatetime: 2026-02-01T08:51:00Z
-modDatetime: 2026-02-01T08:51:00Z
+pubDatetime: 2026-02-01T13:42:00Z
+modDatetime: 2026-02-01T13:42:00Z
 title: "Markdown as Institutional Infrastructure"
 slug: "markdown-as-institutional-infrastructure"
-draft: true
+ogImage: ../../assets/images/marciana-library-venice.webp
+draft: false
 tags: 
   - governance
   - systems-thinking
-  - artificial-intelligence
-  - philosophy
+  - institutional-memory
+  - infrastructure-as-code
+  - automation
   - Markdown
   - elan
 
-description: ""
+description: "Why Markdown and Git are not developer tools, but the quiet infrastructure of durable institutional governance."
 
 ---
 
@@ -87,6 +89,12 @@ If an institution is like a great Renaissance structure, Markdown is the mortar 
 In this sense, Markdown is not a formatting tool.
 
 It is civil infrastructure.
+
+![The Marciana Library](@/assets/images/marciana-library-venice.webp)
+<figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
+  <em>The Marciana Library, Venice, Italy.</em><br>
+  Credit: robodread / Getty Images
+</figcaption>
 
 ## III. A Workbench for Durable Intent
 
