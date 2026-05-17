@@ -1,8 +1,8 @@
 ---
 author: "Ning Zhao"
 pubDatetime: 2025-12-31T15:18:00Z
-modDatetime: 2025-12-31T21:32:00Z
-title: "Élan — An Introduction"
+modDatetime: 2026-05-17T19:35:50Z
+title: "Élan: An Introduction"
 slug: "elan-an-introduction"
 draft: false
 tags: 
@@ -21,7 +21,7 @@ Not a library, exactly, though it contains laws.
 Not a factory, though it produces machinery.  
 It is, simply, a folder structure on a hard drive.
 
-It seems a small thing to celebrate. And yet, when one considers the chaos that engulfs much of our digital creation—the sprawling systems, the forgotten requirements, the rules that are written but never enforced—one begins to suspect that order, true order, is among the rarest achievements of our age.
+It seems a small thing to celebrate. And yet, when one considers the chaos that engulfs much of our digital creation, such as the sprawling systems, the forgotten requirements, and the rules that are written but never enforced, one begins to suspect that order, true order, is among the rarest achievements of our age.
 
 For several days, during a brief and quiet interval between obligations, I have been building something I call **Élan**.
 
@@ -32,13 +32,13 @@ Great architecture does not move, yet it has momentum. The arches of a cathedral
 **Élan is a proposal for a different way of moving.**
 
 It begins with a simple engineering imperative: **enable automation**.  
-Not automation as convenience, nor automation as speed, but automation as *authority*—the means by which rules are not merely declared, but continuously enforced.
+Not automation as convenience, nor automation as speed, but automation as *authority*: the means by which rules are not merely declared, but continuously enforced.
 
 In doing so, Élan seeks to create something more enduring: systems that move confidently because their constraints are visible, their intent explicit, and their decisions traceable.
 
 ![pont du gard aqueduct](@/assets/images/pont-du-gard-aqueduct.jpg)
 
-Readers who prefer a brief, feature-oriented summary may wish to begin with [Élan — A Concise Overview](https://code-and-civilisation.vercel.app/posts/elan-overview) before continuing with this essay.
+Readers who prefer a brief, feature-oriented summary may wish to begin with [Élan: A Concise Overview](https://code-and-civilisation.vercel.app/posts/elan-overview) before continuing with this essay.
 
 ## A unity of intent
 
@@ -48,7 +48,7 @@ Most institutions suffer from a quiet fracture. Lawyers write rules in prose. En
 
 A policy is not documentation to be filed away; it is a dependency.  
 A requirement is not a wish; it is a constraint.  
-And governance is not a meeting—it is a condition of operation.
+And governance is not a meeting; it is a condition of operation.
 
 In Élan, intent descends gradually, from law to architecture, from specification to implementation, from test to report. The folders are numbered not for decoration, but to make this descent visible. What matters is not where authority is discussed, but where it is enforced.
 
@@ -60,13 +60,13 @@ In recent years, we have become accustomed to confusing motion with progress. Ri
 
 When intent is explicit, when artefacts are linked, when automation refuses to proceed in the face of contradiction, speed follows naturally. Not the speed of haste, but the speed of fluency.
 
-Automation, in this sense, is not an accessory to governance. It is its quiet executor—the means by which discipline is applied without constant supervision, and trust is maintained without constant negotiation.
+Automation, in this sense, is not an accessory to governance. It is its quiet executor: the means by which discipline is applied without constant supervision, and trust is maintained without constant negotiation.
 
 ## A civilised experiment
 
 Kenneth Clark once observed that civilisation is marked by confidence: not the loud confidence of domination, but the quiet confidence of builders who know their foundations will hold.
 
-Élan is an experiment in recovering that confidence for software and institutions alike. It rejects the false choice between speed and stability. It asks instead whether systems can be both adaptive and coherent—free to evolve, yet unable to forget why they exist.
+Élan is an experiment in recovering that confidence for software and institutions alike. It rejects the false choice between speed and stability. It asks instead whether systems can be both adaptive and coherent, free to evolve, yet unable to forget why they exist.
 
 It is not a finished system, nor a doctrine. It is a workbench, demonstrative by design, intended to be examined, adapted, and improved.
 
