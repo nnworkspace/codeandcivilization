@@ -1,7 +1,7 @@
 ---
 author: "Ning Zhao"
 pubDatetime: 2025-12-31T22:51:00Z
-modDatetime: 2025-12-31T22:51:00Z
+modDatetime: 2026-05-17T19:29:06Z
 title: "The Drift: A Note on the Creation of Élan"
 slug: "elan-creation-note"
 draft: false
@@ -18,7 +18,7 @@ description: "Why intelligence is not enough: observing the drift of advanced AI
 
 ---
 
-_Note: This essay accompanies [_Élan — A Concise Overview_](https://code-and-civilisation.vercel.app/posts/elan-overview) and [_Élan — An Introduction_](https://code-and-civilisation.vercel.app/posts/elan-an-introduction). Where those texts describe what Élan is, this essay reflects on how it came into being, and what its visible inconsistencies have to teach._
+_Note: This essay accompanies [_Élan: A Concise Overview_](https://code-and-civilisation.vercel.app/posts/elan-overview) and [_Élan: An Introduction_](https://code-and-civilisation.vercel.app/posts/elan-an-introduction). Where those texts describe what Élan is, this essay reflects on how it came into being, and what its visible inconsistencies have to teach._
 
 ![stone scaffolding](/assets/stone-scaffolding.jpg)
 
@@ -44,11 +44,11 @@ The AIs understood. They complied. They worked diligently.
 
 And yet, as the work progressed and the context deepened, they began to drift.
 
-Definitions softened. Hierarchies blurred. Constants faded. Connections were inferred rather than enforced. Not through malice or incompetence, but through a familiar failure: the absence of a mechanical constraint. What emerged was uncannily recognisable — a capable, industrious bureaucracy that has forgotten its constitution.
+Definitions softened. Hierarchies blurred. Constants faded. Connections were inferred rather than enforced. Not through malice or incompetence, but through a familiar failure: the absence of a mechanical constraint. What emerged was uncannily recognisable: a capable, industrious bureaucracy that has forgotten its constitution.
 
 The inconsistencies that remain in this repository are therefore not accidental. They are not simply errors to be cleaned away. I have chosen to leave many of them visible.
 
-They demonstrate a simple truth: governance cannot survive on explanation alone. It must be enforced. Narrative can inspire, but only machinery can sustain coherence over time — whether the actors are human or artificial.
+They demonstrate a simple truth: governance cannot survive on explanation alone. It must be enforced. Narrative can inspire, but only machinery can sustain coherence over time, whether the actors are human or artificial.
 
 This, too, is part of Élan’s lesson.
 
