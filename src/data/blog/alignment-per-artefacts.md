@@ -1,7 +1,7 @@
 ---
 author: "Ning Zhao"
 pubDatetime: 2026-02-09T15:37:00Z
-modDatetime: 2026-02-09T15:37:00Z
+modDatetime: 2026-05-17T19:43:30Z
 title: "From Meetings to Artefacts: A Different Kind of Alignment"
 slug: "alignment-per-artefacts"
 ogImage: ../../assets/images/history-is-the-real-alignment.png
@@ -51,7 +51,7 @@ But there is another category of work that quietly resists this model.
 
 ## When the work is not interchangeable
 
-In large, complex programmes — especially in regulated environments — some tasks are not about producing features, but about shaping the conditions under which all features are produced.
+In large, complex programmes, especially in regulated environments, some tasks are not about producing features, but about shaping the conditions under which all features are produced.
 
 Designing how specifications should be written.
 Defining how integration should be governed.
@@ -80,7 +80,7 @@ In this sense, alignment through meetings is not the root solution. It is a work
 
 ## Artefacts as carriers of alignment
 
-There is another way alignment can emerge — not through repeated conversation, but through shared reference.
+There is another way alignment can emerge: not through repeated conversation, but through shared reference.
 
 When specifications, rules, and integration contracts are written in structured, versioned text and live alongside the systems they describe, something changes.
 
@@ -102,7 +102,7 @@ This is not an argument against agile practice. It is an observation about where
 Agile ceremonies work well when the bottleneck is coordination between people. They work less well when the bottleneck is clarity of artefacts.
 
 When artefacts are weak, meetings are necessary.
-When artefacts are strong, meetings become lighter, shorter, and less frequent — people no longer need to reconstruct what is already visible.
+When artefacts are strong, meetings become lighter, shorter, and less frequent, as people no longer need to reconstruct what is already visible.
 
 Alignment moves from the meeting room to Git repository.
 
@@ -141,5 +141,5 @@ It is something we maintain by design.
 
 If this perspective resonates, it may be worth asking, in your own environment:
 
-**Are we aligning through meetings because we must — or because our artefacts are not yet doing enough of the work for us?**    
+**Are we aligning through meetings because we must, or because our artefacts are not yet doing enough of the work for us?**    
 
