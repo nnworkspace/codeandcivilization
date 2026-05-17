@@ -64,7 +64,7 @@ understanding drifts from past decisions, documents drift from one another, requ
 
 Much has been adopted in the name of Agile over the past twenty years: roles, ceremonies, metrics. But one decisive principle is often overlooked:
 
-> Everything close to the code — ideally, everything — should be expressed as code.
+> Everything close to the code (ideally, everything) should be expressed as code.
 
 This principle exists to mitigate drift.
 

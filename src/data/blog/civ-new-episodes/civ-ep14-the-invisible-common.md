@@ -62,7 +62,7 @@ Gradually, and without central direction, new commons took shape. These are spac
 
 They remain fragile. They are easily misunderstood, and easily neglected. Yet upon this assumption (modest, generous, and profoundly human), much of our contemporary civilisation has come to rest.
 
-## III. Tim Berners-Lee — The Act of Courtesy
+## III. Tim Berners-Lee: The Act of Courtesy
 
 ![Tim Berners-Lee, father of the World Wide Web.](@/assets/images/berneslee-940701.JPG)
 
@@ -73,7 +73,7 @@ They remain fragile. They are easily misunderstood, and easily neglected. Yet up
 
 The reordering of our digital world began, fittingly, not in a marketplace, but in a place of inquiry. By the late 1980s, computers were already powerful and networks increasingly widespread, yet information remained confined within isolated systems. To move from one to another required a change of language, protocol, or machine. Knowledge existed, but it did not yet flow.
 
-Tim Berners-Lee, then working as a physicist and engineer, recognised in this fragmentation something deeper than technical inconvenience: an obstacle to the exchange of ideas. He proposed a simple remedy: a way for documents on different computers to be linked together, addressed through common rules, and retrieved by anyone connected to the network. The means were spare—uniform addresses, shared protocols, plain documents. 
+Tim Berners-Lee, then working as a physicist and engineer, recognised in this fragmentation something deeper than technical inconvenience: an obstacle to the exchange of ideas. He proposed a simple remedy: a way for documents on different computers to be linked together, addressed through common rules, and retrieved by anyone connected to the network. The means were spare: uniform addresses, shared protocols, plain documents. 
 
 At the time, the prevailing logic was clear. New technologies were enclosed, patented, licensed. They became assets, and then territories. This approach had shaped much of the modern world, and often served it well. But Berners-Lee declined it. He did not claim ownership of the Web, nor place it behind fees or permissions. Instead, he released its protocols openly, allowing anyone to use and build upon them.
 
@@ -83,7 +83,7 @@ Clark once described courtesy as the discipline by which we restrain our own cla
 
 From that restraint flowed much that followed.
 
-## IV. Linus Torvalds — Order Without Command
+## IV. Linus Torvalds: Order Without Command
 
 ![Linus Torvalds portrait](@/assets/images/Cohen-Linus-Torvalds.webp)
 <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
@@ -166,7 +166,7 @@ It was a modest beginning, and an unfinished one. But it marked something new in
 A way toward permanence.
 
 
-## VI. Larry Page & Sergey Brin — Curiosity as Civic Infrastructure
+## VI. Larry Page & Sergey Brin: Curiosity as Civic Infrastructure
 
 Civilisations have always faltered not for lack of knowledge, but for lack of finding it. The great library of Alexandria held its wealth in scrolls; the digital commons held it in billions of fragments, scattered and multiplying. The crisis was one of orientation.
 
@@ -174,7 +174,7 @@ It required a particular kind of genius to address this: not the genius of the p
 
 In the mid-1990s, Larry Page and Sergey Brin, then students at Stanford University, approached this problem with an engineer’s impatience with chaos. They recognised that within the tangled mess of the Web, there lay a hidden structure. Links were more than mere decorations; they were judgments. Every reference implied trust, relevance, and attention. If these signals could be measured, the cacophony of human knowledge might order itself, without the need for a central censor.
 
-Page and Brin set out to implement this theory with their own hands. Much of the early system — from the crawling of pages to the ranking of results — was coded by them, tested against the crushing weight of the real Web, and refined through sleepless nights. Their authority rested on a simple, undeniable premise: they had made the thing work.
+Page and Brin set out to implement this theory with their own hands. Much of the early system, from the crawling of pages to the ranking of results, was coded by them, tested against the crushing weight of the real Web, and refined through sleepless nights. Their authority rested on a simple, undeniable premise: they had made the thing work.
 
 Their ambition, expressed with an engineer’s disarming simplicity, was among the broadest in human history:
 > Basically, our goal is to organize the world’s information and to make it universally accessible and useful.
@@ -210,10 +210,10 @@ Page and Brin belong, in Clark’s sense, among the God-given geniuses who reali
 
 Curiosity, once given structure, became infrastructure.
 
-What followed would test how the use of such infrastructure should be judged — and at what human cost.
+What followed would test how the use of such infrastructure should be judged. And at what human cost.
 
 
-## VII. Aaron Swartz — The Conscience of the Commons
+## VII. Aaron Swartz: The Conscience of the Commons
 
 If the story ended with the triumph of the Web and the ordering of the map, we might be tempted to call it a victory. But history suggests otherwise. When the pace of civilisation accelerates, it often leaves its institutions behind. And in that widening gap, there are casualties.
 
@@ -271,7 +271,7 @@ In February 2025, a bust of Aaron Swartz was unveiled in the lobby of the Intern
 
 It simply reminds those who pass beneath it that the commons was not built by compliance alone, and that civilisation, if it is to endure, must always leave room for conscience to speak before the law has learned how to listen.
 
-## VIII. Sal Khan — Explanation as a Civic Act
+## VIII. Sal Khan: Explanation as a Civic Act
 
 After the moral strain of collision, it is necessary to return to first principles: this time of learning itself. Civilisation, after all, is not preserved by systems alone. It is preserved by transmission: by one mind taking the time to explain something carefully to another.
 
@@ -283,7 +283,7 @@ After the moral strain of collision, it is necessary to return to first principl
 
 In 2004, Sal Khan began without a grand design to reform education. He was tutoring a cousin through the web. The subject was mathematics, and the medium he chose was austere: a black screen, a trail of coloured digital ink, and a voice. This created an aesthetic of pure concentration. The learner watched the thought itself unfolding in real time. Unencumbered by institutional theories or the language of disruption, the work relied entirely on the clarity of the explanation.
 
-From this modest beginning grew Khan Academy — an online platform that functioned as a repository of patience. Its distinguishing quality lay in its tone. Concepts were broken down slowly, without embarrassment, and rebuilt step by step, treating the learner simply as an unfinished mind requiring only time and method to complete itself.
+From this modest beginning grew Khan Academy, an online platform that functioned as a repository of patience. Its distinguishing quality lay in its tone. Concepts were broken down slowly, without embarrassment, and rebuilt step by step, treating the learner simply as an unfinished mind requiring only time and method to complete itself.
 
 This approach addressed a failure that Clark had observed long before. He remarked that the so-called “top people” of earlier generations were often charming but poorly informed, while students in provincial universities were sharper, more curious, and more alert. The barrier between them was access: specifically, access to explanation.
 
@@ -299,9 +299,9 @@ Here, the tools of the invisible commons reached their most humane expression. T
 
 It is striking that a platform of this global reach and massive utility was founded on a single voice, repeated patiently thousands of times. Even as the project expanded, it retained this intimacy. While traditional schools carry responsibilities far beyond explanation, Khan proved that the continuity of knowledge operates independently of hierarchy. It advances most reliably where the responsibility for clarity is personal, continuous, and owned by a human voice.
 
-In the end, his contribution reminds us of a truth often obscured by scale and abstraction: that alongside genius and conscience, civilisation depends upon explanation—offered freely, received humbly, and carried forward, one mind at a time.
+In the end, his contribution reminds us of a truth often obscured by scale and abstraction: that alongside genius and conscience, civilisation depends upon explanation, offered freely, received humbly, and carried forward, one mind at a time.
 
-## Peroration — What Endures
+## Peroration: What Endures
 
 We have traced a lineage defined less by doctrine than by a series of human gestures: restraint at the beginning, discipline in the making, generosity in collaboration, conscience under strain, and patience in explanation. Taken together, they suggest that the digital age grew around a distinct, if quiet, centre.
 

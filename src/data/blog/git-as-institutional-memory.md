@@ -94,7 +94,7 @@ Over time, these messages accumulate into a decision log that no meeting minutes
 
 In a shared drive, saving a file replaces its predecessor. The old version may exist in a backup, but finding it requires effort, luck, or the intervention of an IT department.
 
-In Git, the previous state of every document is always available. One can retrieve the exact text of a document as it stood on any date — last Tuesday, six months ago, the day before a regulation changed. It is the fundamental architecture of the system.
+In Git, the previous state of every document is always available. One can retrieve the exact text of a document as it stood on any date: last Tuesday, six months ago, the day before a regulation changed. It is the fundamental architecture of the system.
 
 ### 4. Changes are reviewed before they take effect
 
@@ -133,7 +133,7 @@ The qualities described above (visibility, attribution, permanence, review, auth
 
 Consider a practical example: **impact analysis**. In a large programme, a change to the rulebook should propagate through architecture, specifications, API schemas, tests, and implementation. When these artefacts live in SharePoint and Confluence across separate institutional servers, assessing the downstream impact of a single rule change becomes an exercise in archaeology. Someone must log into multiple systems, search manually through documents in various formats, and reconstruct the chain of dependencies from memory and experience. The result is slow, incomplete, and unrepeatable.
 
-When the same artefacts live as structured text in Git repositories, a search command can traverse every specification, every API schema, every test case, every implementation in seconds — identifying every document that references the changed rule, every field that depends on it, every validation that enforces it. This does not require advanced technology. It requires only that the artefacts are text, that they are searchable, and that they live in a system designed for exactly this kind of traversal. With the addition of modern AI, the analysis becomes richer — capable of understanding not just textual references, but semantic dependencies. Yet even without AI, the basic capability already exceeds what any manual process can achieve.
+When the same artefacts live as structured text in Git repositories, a search command can traverse every specification, every API schema, every test case, every implementation in seconds, identifying every document that references the changed rule, every field that depends on it, every validation that enforces it. This does not require advanced technology. It requires only that the artefacts are text, that they are searchable, and that they live in a system designed for exactly this kind of traversal. With the addition of modern AI, the analysis becomes richer, capable of understanding not just textual references, but semantic dependencies. Yet even without AI, the basic capability already exceeds what any manual process can achieve.
 
 Consider a second example: **executive reporting**. In a conventional setup, progress reporting requires status meetings, manually assembled slide decks, and summaries written from memory. When all artefacts are governed through Git, the raw material for reporting already exists: every change, every reason, every approval is recorded in the system's own history. An automated process can collect the changes made across all repositories during a given period, and, with or without AI assistance, produce a concise, accurate summary of what was accomplished, what changed, and what remains open. The executive receives clarity without convening a meeting. The teams are not interrupted. The report is grounded in evidence, not recollection.
 
@@ -159,11 +159,11 @@ This is a tiny investment compared to what most institutions make in adopting a 
 
 We began with a familiar observation: institutions forget. Because the tools they use were designed for distribution, not for memory.
 
-The shift from shared drives to version-controlled repositories is not a technology upgrade. It is a change in what an institution is *able to do*. It becomes able to answer questions it could not answer before — not about what a document says today, but about how it came to say what it says, and whether the journey was deliberate.
+The shift from shared drives to version-controlled repositories is not a technology upgrade. It is a change in what an institution is *able to do*. It becomes able to answer questions it could not answer before: not about what a document says today, but about how it came to say what it says, and whether the journey was deliberate.
 
 In a [companion essay](https://code-and-civilisation.vercel.app/posts/markdown-as-institutional-infrastructure), I suggested that Markdown is the mortar of institutional infrastructure: the means by which documents become structured, portable, and machine-readable. If that is so, then Git is the _substrate_: the mechanism by which those documents acquire history, accountability, and the quiet authority that comes from knowing that nothing has been silently changed.
 
-Kenneth Clark once observed that civilisation depends not only on energy and talent, but on the patient accumulation of small, careful acts — the preservation of knowledge, the maintenance of standards, the refusal to let important things be forgotten, a sense of permanence. In the digital age, these acts require digital infrastructure. Not glamorous, not fashionable, not performative, but indispensable.
+Kenneth Clark once observed that civilisation depends not only on energy and talent, but on the patient accumulation of small, careful acts: the preservation of knowledge, the maintenance of standards, the refusal to let important things be forgotten, a sense of permanence. In the digital age, these acts require digital infrastructure. Not glamorous, not fashionable, not performative, but indispensable.
 
 Git is that civic infrastructure. It is not a developer tool that happens to be useful for institutions. It is an institutional tool that happens to have been invented by developers.
 

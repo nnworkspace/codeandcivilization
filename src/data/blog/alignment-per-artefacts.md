@@ -110,7 +110,7 @@ Alignment moves from the meeting room to Git repository.
 
 In large institutions, the greatest productivity gain rarely comes from new features or new tools. It comes from reducing the friction of understanding what already exists.
 
-This is where seemingly simple tools — plain text, version control, structured documentation — become unexpectedly powerful.
+This is where seemingly simple tools (plain text, version control, structured documentation) become unexpectedly powerful.
 
 They do not look like innovation.
 They do not appear in strategy slides.
