@@ -8,12 +8,11 @@ ogImage: ../../../assets/images/og-civ-ep14.png # src/assets/images/example.png
 draft: false
 tags:
   - civilisation
-  - technology
-  - open source
-  - knowledge
+  - digital-civilisation
   - institutions
-  - digital commons
-  - intellectual history
+  - knowledge
+  - open-source
+  - essay
 description: "A speculative ‘Episode 14’ of 'Civilisation' in the spirit of Kenneth Clark, observing how courtesy, discipline, curiosity, conscience, and patience shaped the invisible civic infrastructure of the digital age."
 ---
 

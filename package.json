@@ -10,7 +10,9 @@
     "astro": "astro",
     "format:check": "prettier --check .",
     "format": "prettier --write .",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "lint:tags": "node scripts/lint-tags.mjs",
+    "lint:tags:fix": "node scripts/lint-tags.mjs --fix"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.18",

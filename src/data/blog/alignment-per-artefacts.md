@@ -8,17 +8,11 @@ ogImage: ../../assets/images/history-is-the-real-alignment.png
 draft: false
 tags: 
   - governance
-  - systems-thinking
   - institutional-memory
-  - institutional-technology
+  - systems-thinking
   - git
   - markdown
-  - devops
-  - architecture
-  - knowledge-management
-  - digital-transformation
-  - policy-as-code
-  - digital-backbone
+  - infrastructure-as-code
 
 description: "How shared artefacts, version control, and Markdown replace meeting-driven alignment with durable, traceable institutional knowledge."
 

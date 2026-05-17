@@ -6,13 +6,10 @@ title: "Élan: A Concise Overview"
 slug: "elan-overview"
 draft: false
 tags:
-    - project-governance
+    - governance
     - automation
-    - systems-engineering
+    - systems-thinking
     - software-architecture
-    - traceability
-    - institutional-software
-    - high-stakes-systems
     - digital-civilisation
     - elan
 

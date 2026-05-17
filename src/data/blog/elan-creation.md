@@ -9,10 +9,8 @@ tags:
   - governance
   - systems-thinking
   - artificial-intelligence
-  - AI-limitations
-  - philosophy
-  - essay
   - elan
+  - essay
 
 description: "Why intelligence is not enough: observing the drift of advanced AI agents when they are given narrative rules without mechanical constraints."
 

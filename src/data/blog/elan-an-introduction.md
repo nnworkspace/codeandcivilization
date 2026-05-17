@@ -6,13 +6,12 @@ title: "Élan: An Introduction"
 slug: "elan-an-introduction"
 draft: false
 tags: 
-  - software-engineering
-  - project-governance
+  - governance
   - institutions
   - systems-thinking
-  - essay
   - regulated-industries
   - elan
+  - essay
 description: "An introduction to Élan, a workbench for uniting intent, structure, and execution in complex systems."
 ---
 

@@ -8,11 +8,11 @@ ogImage: ../../assets/images/marciana-library-venice.webp
 draft: false
 tags: 
   - governance
-  - systems-thinking
   - institutional-memory
+  - systems-thinking
+  - markdown
   - infrastructure-as-code
   - automation
-  - Markdown
   - elan
 
 description: "Why Markdown and Git are not developer tools, but the quiet infrastructure of durable institutional governance."

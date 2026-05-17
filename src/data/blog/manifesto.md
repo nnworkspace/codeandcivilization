@@ -7,11 +7,10 @@ slug: "manifesto"
 draft: false
 tags: 
   - civilisation
-  - code
   - institutions
   - systems-thinking
-  - essay
   - public-sector
+  - essay
 description: "On code, institutions, and the quiet work of building civilisation."
 ---
 
