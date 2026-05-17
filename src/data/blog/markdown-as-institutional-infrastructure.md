@@ -1,7 +1,7 @@
 ---
 author: "Ning Zhao"
 pubDatetime: 2026-02-01T13:42:00Z
-modDatetime: 2026-02-01T22:28:00Z
+modDatetime: 2026-05-17T19:33:11Z
 title: "Markdown as Institutional Infrastructure"
 slug: "markdown-as-institutional-infrastructure"
 ogImage: ../../assets/images/marciana-library-venice.webp
@@ -25,11 +25,11 @@ In the most superficial sense, Markdown is about documents.
 
 Most people in traditional institutions are familiar with editors like Microsoft Word. In that world, how a document looks often dominates what it means. Semantic structure is not embedded in the format itself; it must be inferred from visual appearance.
 
-Writers have many ways to decorate their meaning. The abundance of formatting options makes the mapping between structure and appearance inconsistent — not only within a single document, but especially across hundreds of documents in large programmes involving multiple teams and institutions.
+Writers have many ways to decorate their meaning. The abundance of formatting options makes the mapping between structure and appearance inconsistent: not only within a single document, but especially across hundreds of documents in large programmes involving multiple teams and institutions.
 
 As a consequence, in any modern workflow where documents must be processed by other software, extracting reliable semantic structure becomes difficult.
 
-Another technical dimension of this problem is that most common document formats are proprietary and defined by complex schemas. High-quality, low-cost processing tools — essential in an automation-heavy environment — are rare. Even when such tools exist, the complexity of the format makes the parsing logic difficult to maintain and evolve, generating technical debt and friction across the application landscape of the institution.
+Another technical dimension of this problem is that most common document formats are proprietary and defined by complex schemas. High-quality, low-cost processing tools, which are essential in an automation-heavy environment, are rare. Even when such tools exist, the complexity of the format makes the parsing logic difficult to maintain and evolve, generating technical debt and friction across the application landscape of the institution.
 
 And then there is the human side.
 
@@ -62,7 +62,7 @@ Engineers often cannot explain why a system behaves the way it does, only weeks 
 When governance is external to the engineering workflow, drift is inevitable:  
 understanding drifts from past decisions, documents drift from one another, requirements drift from policy intent, and implementations drift from requirements.
 
-Much has been adopted in the name of Agile over the past twenty years — roles, ceremonies, metrics. But one decisive principle is often overlooked:
+Much has been adopted in the name of Agile over the past twenty years: roles, ceremonies, metrics. But one decisive principle is often overlooked:
 
 > Everything close to the code — ideally, everything — should be expressed as code.
 
@@ -72,11 +72,11 @@ And the most practical way to apply it is surprisingly simple:
 
 **Use Markdown.**
 
-When policy documents, decisions, requirements, and governance artefacts are written in Markdown, they can live in Git repositories alongside the systems they govern. They become discoverable, versioned, comparable over time, and mechanically enforceable by downstream processes — many of which already live in Git.
+When policy documents, decisions, requirements, and governance artefacts are written in Markdown, they can live in Git repositories alongside the systems they govern. They become discoverable, versioned, comparable over time, and mechanically enforceable by downstream processes, many of which already live in Git.
 
 This co-location of governance artefacts with engineering artefacts is often far more important than the physical co-location of people. It makes order, consistency, resilience, and durability easier to achieve in large-scale programmes.
 
-With Markdown in Git, dependence on scattered document servers and collaboration tools is reduced. Licensing and operational costs fall, many meetings become unnecessary, and — more importantly — coherence increases. Governance scales across globally distributed teams and survives staff turnover.
+With Markdown in Git, dependence on scattered document servers and collaboration tools is reduced. Licensing and operational costs fall, many meetings become unnecessary, and more importantly, coherence increases. Governance scales across globally distributed teams and survives staff turnover.
 
 Large-scale projects such as the Linux kernel, European Digital Identity, or Ethereum rely not on meetings, but on clear governance artefacts in Git and mechanical enforcement through automation. If this approach can sustain such projects, it can sustain large programmes in public institutions as well.
 
@@ -90,9 +90,9 @@ In this sense, Markdown is not a formatting tool.
 
 It is civil infrastructure.
 
-![The Biblioteca Nazionale Marciana in Venice — a Renaissance structure dedicated to the preservation and ordering of knowledge across centuries.](@/assets/images/marciana-library-venice.webp)
+![The Biblioteca Nazionale Marciana in Venice, a Renaissance structure dedicated to the preservation and ordering of knowledge across centuries.](@/assets/images/marciana-library-venice.webp)
 <figcaption style="font-size: 0.9em; color: #666; margin-top: 0.5em;">
-  <em>The Biblioteca Nazionale Marciana in Venice — a Renaissance structure dedicated to the preservation and ordering of knowledge across centuries.</em><br>
+  <em>The Biblioteca Nazionale Marciana in Venice, a Renaissance structure dedicated to the preservation and ordering of knowledge across centuries.</em><br>
   Credit: robodread / Getty Images
 </figcaption>
 
@@ -100,7 +100,7 @@ It is civil infrastructure.
 
 This way of thinking is not theoretical for me.
 
-Over the past years, working in large-scale institutional programmes, I repeatedly encountered the same pattern: capable people, good intentions, modern tooling — yet persistent coordination problems caused not by lack of skill, but by the absence of shared, structured, versioned governance artefacts.
+Over the past years, working in large-scale institutional programmes, I repeatedly encountered the same pattern: capable people, good intentions, modern tooling, yet persistent coordination problems caused not by lack of skill, but by the absence of shared, structured, versioned governance artefacts.
 
 During a short break at the end of last year, I decided to turn these observations into something tangible. The result is a demonstrative governance workbench called **Élan**.
 
@@ -113,10 +113,10 @@ If the ideas in this essay resonate with you, you may find Élan a useful illust
 - 📦 **The Élan workbench (GitHub)**  
   https://github.com/nnworkspace/elan
 
-- ⚙️ **Élan — A Concise Overview**  
+- ⚙️ **Élan: A Concise Overview**  
   https://code-and-civilisation.vercel.app/posts/elan-overview
 
-- 📖 **Élan — An Introduction**  
+- 📖 **Élan: An Introduction**  
   https://code-and-civilisation.vercel.app/posts/elan-an-introduction
 
 
