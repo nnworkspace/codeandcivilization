@@ -1,8 +1,8 @@
 ---
 author: "Ning Zhao"
 pubDatetime: 2026-01-01T08:26:00Z
-modDatetime: 2026-01-01T08:26:00Z
-title: "Élan — A Concise Overview"
+modDatetime: 2026-05-17T18:09:16Z
+title: "Élan: A Concise Overview"
 slug: "elan-overview"
 draft: false
 tags:
@@ -57,7 +57,7 @@ Unlike traditional project tools and methodologies, Élan:
 - treats **governance artefacts as technical inputs**, not background documentation,  
 - embeds traceability directly into specifications, code, tests, and reports,  
 - separates **logical unity** from physical co-location (many repos, one system),  
-- uses automation broadly — validation, analysis, enforcement, reporting — not only CI/CD,  
+- uses automation broadly across validation, analysis, enforcement, and reporting, rather than only for CI/CD,  
 - treats CI/CD as **one enforcement mechanism among many**, not the centre of the system,  
 - favours explicit, machine-checkable constraints over informal process and ritual.
 
@@ -79,7 +79,7 @@ It can also benefit mid-sized projects whose **risk profile**, rather than scale
 ---
 
 In short:  
-**Élan is about disciplined momentum — enabling systems to move continuously, without forgetting why they move at all.**
+**Élan is about disciplined momentum. It enables systems to move continuously, without forgetting why they move at all.**
 
 --- 
 
