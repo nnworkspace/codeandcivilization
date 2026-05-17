@@ -1,4 +1,4 @@
-# Code & Civilization Source Text Repository
+# Code & Civilisation Source Text Repository
 
 Disinterested contemplation on the architecture of collaboration, the ascent of systems, and the art of building civilisation.
 
@@ -44,7 +44,7 @@ All blog posts are stored in `src/data/blog` directory.
 
 ## 📖 Documentation
 
-Documentation can be read in two formats\_ _markdown_ & _blog post_.
+Documentation can be read in two formats: _markdown_ & _blog post_.
 
 - Configuration - [markdown](src/data/blog/how-to-configure-astropaper-theme.md) | [blog post](https://astro-paper.pages.dev/posts/how-to-configure-astropaper-theme/)
 - Add Posts - [markdown](src/data/blog/adding-new-post.md) | [blog post](https://astro-paper.pages.dev/posts/adding-new-posts-in-astropaper-theme/)
@@ -60,7 +60,7 @@ Documentation can be read in two formats\_ _markdown_ & _blog post_.
 **Static Search** - [FuseJS](https://pagefind.app/)  
 **Icons** - [Tablers](https://tabler-icons.io/)  
 **Code Formatting** - [Prettier](https://prettier.io/)  
-**Deployment** - [Cloudflare Pages](https://pages.cloudflare.com/)  
+**Deployment** - [Vercel](https://vercel.com/)  
 **Illustration in About Page** - [https://freesvgillustration.com](https://freesvgillustration.com/)  
 **Linting** - [ESLint](https://eslint.org)
 
