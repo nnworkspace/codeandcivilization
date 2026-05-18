@@ -1,7 +1,7 @@
 ---
 author: "Ning Zhao"
-pubDatetime: 2026-05-18T08:15:18Z
-modDatetime: 2026-05-18T08:15:18Z
+pubDatetime: 2026-05-18T06:15:18Z
+modDatetime: 2026-05-18T06:15:18Z
 title: "Change Management as Civic Infrastructure"
 slug: "change-management-as-civic-infrastructure"
 ogImage: ../../assets/images/European-Waterways-23_edited.jpg
