@@ -130,6 +130,7 @@ export default async post => {
             type: "div",
             props: {
               style: {
+                position: "relative",
                 border: "4px solid #000",
                 background: "#fefbfb",
                 borderRadius: "4px",
