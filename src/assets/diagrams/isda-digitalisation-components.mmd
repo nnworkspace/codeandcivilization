@@ -1,0 +1,36 @@
+%%{init: {"theme": "base", "flowchart": {"curve": "basis", "nodeSpacing": 34, "rankSpacing": 70, "padding": 16, "wrappingWidth": 260}, "themeVariables": {"fontFamily": "Inter, sans-serif", "fontSize": "15px", "background": "#fcfbf8", "lineColor": "#7d8aa0", "textColor": "#3d4555", "edgeLabelBackground": "#f3f2ee", "clusterBkg": "#f3f2ee", "clusterBorder": "#dcd9d1", "titleColor": "#6b7385"}, "themeCSS": "* { font-family: Inter, sans-serif !important; } .edgeLabel, .edgeLabel p, .edgeLabel span { color: #4a5468 !important; background-color: #f3f2ee !important; font-size: 17px; } .cluster-label span, .cluster-label p { color: #7a8193 !important; font-size: 12px; letter-spacing: 0.12em; font-weight: 600; }"}}%%
+flowchart TB
+    subgraph legal ["LEGAL SIDE"]
+        direction LR
+        L["<b>Legal text</b><br/>Master Agreement, Definitions<br/><i>authoritative, versioned</i>"]
+        C["<b>Standard choices</b><br/>Clause Library<br/><i>identifiers for options</i>"]
+        N["<b>Negotiation</b><br/>ISDA Create<br/><i>election data, not just a PDF</i>"]
+        L -- "choices named" --> C
+        C -- "selected in" --> N
+    end
+    subgraph tech ["TECHNICAL SIDE"]
+        direction LR
+        M["<b>Data and process model</b><br/>CDM<br/><i>one model, generated into code</i>"]
+        R["<b>Executable rules</b><br/>DRR<br/><i>rules as shared, reviewed code</i>"]
+        X["<b>Messages and identifiers</b><br/>FpML, UPI, UTI<br/><i>trades that can be matched</i>"]
+        M -- "rules coded on" --> R
+        R -- "reported as" --> X
+    end
+    subgraph plumb ["PLUMBING"]
+        direction LR
+        E["<b>Protocols</b><br/><i>amend the estate in bulk</i>"]
+        P["<b>Protocols</b><br/><i>amend the estate in bulk</i>"]
+        H["<b>Notices Hub</b><br/><i>delivers notices with a record</i>"]
+        E ~~~ H ~~~ P
+    end
+    plumb -. "amend and serve" .-> legal
+    legal -- "elections as data" --> tech
+
+    classDef legalNode fill:#efe8f6,stroke:#8a6bab,color:#3b2a52,stroke-width:1.5px
+    classDef techNode fill:#e6eef9,stroke:#5a7fb5,color:#1f3557,stroke-width:1.5px
+    classDef plumbNode fill:#f8ece2,stroke:#c0814f,color:#5a3216,stroke-width:1.5px
+    class L,C,N legalNode
+    class M,R,X techNode
+    class P,H plumbNode
+    classDef spacer fill:none,stroke:none,color:transparent
+    class E spacer
