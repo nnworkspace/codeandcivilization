@@ -83,7 +83,7 @@ ISDA did not replace the paper structure with one system. It added a set of comp
   <em>From legal text to code.</em> Each component attaches to one layer of the paper design and feeds the next; the plumbing keeps the legal side in motion.
 </figcaption>
 
-The principle throughout: **the legal text stays authoritative, every choice made within it becomes data with an identifier, and anything computable is computed once from one shared model.**
+The principle, as I read it: **the legal text stays authoritative, every choice made within it becomes data with an identifier, and anything computable is computed once from one shared model.**
 
 The sections below take the components one at a time, from the legal end to the technical end, and finish with the plumbing that keeps the whole estate in motion.
 
