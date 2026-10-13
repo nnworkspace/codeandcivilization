@@ -14,7 +14,7 @@ tags:
   - systems-thinking
   - automation
   - essay
-description: "How the derivatives market turned a library of paper contracts, strained by every crisis from the 2005 backlog to Lehman to lockdown, into named clauses, versioned definitions, an open shared model and executable rules, and what a new scheme like the Digital Euro can learn from it."
+description: "How the derivatives market turned a library of paper contracts, strained by every crisis from the 2005 backlog to Lehman to lockdown, into named clauses, versioned definitions, an open shared model and executable rules, and what a new payment scheme can learn from it."
 ---
 
 ![The ISDA document estate: a contractual stack of Master Agreement, Schedule, Credit Support Annex and Confirmation beside a reference stack of Definitions books, with a Protocol arc wrapped around both.](@/assets/images/isda-document-stack.jpg)
@@ -338,8 +338,8 @@ The pattern is worth stating plainly, because it applies well beyond derivatives
 6. **Do not forget the plumbing.** Notices, amendments and adherence are not interesting, but without them the model has nothing to act on.
 7. **Expect it to take a decade.** None of these steps was fast, and each depended on the one before it.
 
-These lessons have obvious relevance to anyone building a new payment scheme, a market infrastructure or a public digital service. The Digital Euro, for example, is also being defined through a rulebook, technical standards and obligations for many participants: the same kind of layered library that ISDA started from.
+These lessons have obvious relevance to anyone building a new payment scheme, a market infrastructure or a public digital service. Such schemes are also defined through a rulebook, technical standards and obligations for many participants: the same kind of layered library that ISDA started from.
 
-A new scheme also has two advantages ISDA never had. It is greenfield, and it has a single scheme owner. It does not need to extract identifiers and options from decades of signed paper; it can design them in from the first draft. It can version its rulebook and standards from the first release, instead of folding in supplements later. And it can govern its shared model the way the CDM is governed at FINOS: a scheme model maintained by the ECB, with PSPs proposing changes by merge request. The human gate stays where it belongs: the PSPs propose, the scheme owner approves, and only then does the change take effect, with the accountability that a public scheme owes to its users. Whether such a programme starts with paper and digitalises later, or starts with named choices, versioned texts and a shared model from day one, is a decision worth making deliberately.
+A new scheme also has two advantages ISDA never had. It is greenfield, and it has a single scheme owner. It does not need to extract identifiers and options from decades of signed paper; it can design them in from the first draft. It can version its rulebook and standards from the first release, instead of folding in supplements later. And it can govern its shared model the way the CDM is governed at FINOS: one model, maintained by the scheme owner, with participants proposing changes by merge request. The human gate stays where it belongs: participants propose, the scheme owner approves, and only then does the change take effect, with the accountability that a public scheme owes to its users. Whether a new scheme starts with paper and digitalises later, or starts with named choices, versioned texts and a shared model from day one, is a decision worth making deliberately.
 
 ISDA did not set out to turn contracts into data. It set out to make a market's paperwork manageable, one step at a time. The data came as a consequence.
