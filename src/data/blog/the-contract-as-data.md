@@ -48,7 +48,7 @@ That phrase carries more weight than it seems to. Section 1(c) of the Master Agr
 
 The layers also have a clear order of precedence, set out in Section 1(b). Where the Schedule and the printed Master Agreement disagree, the Schedule prevails. Where a Confirmation disagrees with either, the Confirmation prevails, but only for its own transaction: one trade's confirmation cannot rewrite the Master Agreement or reach into the other trades.
 
-Software engineers will recognise the pattern: a base class that nobody touches, a layer of configuration on top, shared libraries imported by name, and a small override in each instance. Where they conflict, the more specific wins, but an override reaches no further than itself.
+Software engineers will recognise the pattern: a base class that nobody touches, a layer of configuration on top, shared libraries imported by name, and a small override in each instance. Where they conflict, the more specific wins, but an override reaches no further than itself. The analogy has a limit, though. In software, the compiler applies the precedence rule; in a contract, it may take a court.
 
 The design is old and, in its way, elegant. Standard text lives in one place; negotiation is confined to elections; amendments travel by reference. But it was built for paper. The elections sit in scanned PDFs. The meaning of a trade is spread across five documents that a machine cannot join. A bank that wants to know "with which counterparties have we agreed a threshold above ten million euro?" sends lawyers to read.
 
@@ -298,7 +298,7 @@ After 2008, regulators in every major jurisdiction required derivatives trades t
 
 DRR has gone live regime by regime: the US CFTC rewrite on December 5, 2022; Japan on April 1, 2024; EU EMIR Refit on April 29, 2024; UK EMIR on September 30, 2024; Australia and Singapore on October 21, 2024; Canada on July 25, 2025; and Hong Kong on September 29, 2025. ISDA has committed to fourteen regimes in nine jurisdictions, and has added the SEC. Some infrastructure providers now publish their own rules in the same form: Strate, in South Africa, does so for its local reporting rules.
 
-The interesting part is not the code. It is that a group of competitors agreed to share one reading of the law, and to publish it in a form that can be executed, tested and versioned. The interpretation, which used to be private and repeated, became public and shared.
+The interesting part is not the code. It is that a group of competitors agreed to share one reading of the law, and to publish it in a form that can be executed, tested and versioned. The interpretation, which used to be private and repeated, became public and shared. A shared reading is not an official one, however. The reporting obligation stays with each firm, the industry's interpretation binds no regulator, and a reading that everyone applies consistently can still be consistently wrong.
 
 ### 6. Messages and identifiers: FpML, UPI and UTI
 
@@ -324,7 +324,7 @@ It is easy to tell this story as a straight line. It was not.
 
 **What was slower.** Adoption of the CDM as a firm's core data model has been gradual. Most banks map to it at the edges rather than build on it. Negotiation platforms and the Clause Library have been around for years without public figures that suggest they have replaced the negotiated Word document. Legal agreements were among the last parts of the model to be covered in depth, and the Clause Library structure has only just entered it. Newer asset classes are thin: even a recent industry paper by ISDA's future leaders programme called the model's digital asset type a placeholder.
 
-**What remains hard.** A model is only as good as the agreement behind it, and agreement is slow. Each step required lawyers, operations staff, technologists and regulators to accept the same definitions. That work does not show up in a release note.
+**What remains hard.** A model is only as good as the agreement behind it, and agreement is slow. Each step required lawyers, operations staff, technologists and regulators to accept the same definitions. That work does not show up in a release note. And a model can record what a contract says; it cannot settle what the contract means. When the data and the signed text disagree, the text wins, and a lawyer, not the model, decides.
 
 ## V. Lessons for Complex Programmes
 
@@ -340,6 +340,6 @@ The pattern is worth stating plainly, because it applies well beyond derivatives
 
 These lessons have obvious relevance to anyone building a new payment scheme, a market infrastructure or a public digital service. The Digital Euro, for example, is also being defined through a rulebook, technical standards and obligations for many participants: the same kind of layered library that ISDA started from.
 
-A new scheme also has two advantages ISDA never had. It is greenfield, and it has a single scheme owner. It does not need to extract identifiers and options from decades of signed paper; it can design them in from the first draft. It can version its rulebook and standards from the first release, instead of folding in supplements later. And it can govern its shared model the way the CDM is governed at FINOS: a scheme model maintained by the ECB, with PSPs proposing changes by merge request. The human gate stays where it belongs: the PSPs propose, the scheme owner approves, and only then does the change take effect. Whether such a programme starts with paper and digitalises later, or starts with named choices, versioned texts and a shared model from day one, is a decision worth making deliberately.
+A new scheme also has two advantages ISDA never had. It is greenfield, and it has a single scheme owner. It does not need to extract identifiers and options from decades of signed paper; it can design them in from the first draft. It can version its rulebook and standards from the first release, instead of folding in supplements later. And it can govern its shared model the way the CDM is governed at FINOS: a scheme model maintained by the ECB, with PSPs proposing changes by merge request. The human gate stays where it belongs: the PSPs propose, the scheme owner approves, and only then does the change take effect, with the accountability that a public scheme owes to its users. Whether such a programme starts with paper and digitalises later, or starts with named choices, versioned texts and a shared model from day one, is a decision worth making deliberately.
 
 ISDA did not set out to turn contracts into data. It set out to make a market's paperwork manageable, one step at a time. The data came as a consequence.
