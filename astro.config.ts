@@ -2,8 +2,10 @@ import { defineConfig, envField } from "astro/config";
 import { unified } from "@astrojs/markdown-remark";
 import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
+import mdx from "@astrojs/mdx";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
+import rehypeCallouts from "rehype-callouts";
 import { remarkReadingTime } from "./src/utils/remark-reading-time";
 
 import {
@@ -18,6 +20,7 @@ import { SITE } from "./src/config";
 export default defineConfig({
     site: SITE.website,
     integrations: [
+        mdx(),
         sitemap({
             filter: page => SITE.showArchives || !page.endsWith("/archives"),
         }),
@@ -29,6 +32,7 @@ export default defineConfig({
                 remarkReadingTime,
                 [remarkCollapse, { test: "Table of contents" }]
             ],
+            rehypePlugins: [rehypeCallouts],
         }),
         shikiConfig: {
             // For more themes, visit https://shiki.style/themes

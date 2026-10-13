@@ -56,6 +56,14 @@
             @apply mx-auto border border-border;
         }
 
+        img[role="button"] {
+            @apply cursor-zoom-in;
+
+            &:focus-visible {
+                @apply outline-2 outline-offset-2 outline-dashed;
+            }
+        }
+
         figcaption {
             @apply opacity-75;
         }
@@ -69,6 +77,21 @@
 
             th {
                 @apply py-1.5;
+            }
+
+            th[align="center"],
+            td[align="center"] {
+                text-align: center;
+            }
+
+            th[align="right"],
+            td[align="right"] {
+                text-align: right;
+            }
+
+            th[align="left"],
+            td[align="left"] {
+                text-align: left;
             }
 
             code {
@@ -89,7 +112,7 @@
         }
 
 
-        details {
+        details:not(.callout) {
             @apply inline-block cursor-pointer text-foreground select-none;
 
             & p {

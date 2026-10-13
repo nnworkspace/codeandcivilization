@@ -26,7 +26,7 @@ function* walk(dir) {
   for (const name of readdirSync(dir)) {
     const path = join(dir, name);
     if (statSync(path).isDirectory()) yield* walk(path);
-    else if (name.endsWith(".md")) yield path;
+    else if (/\.mdx?$/.test(name)) yield path;
   }
 }
 
