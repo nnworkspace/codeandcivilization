@@ -342,4 +342,22 @@ These lessons have obvious relevance to anyone building a new payment scheme, a 
 
 A new scheme also has two advantages ISDA never had. It is greenfield, and it has a single scheme owner. It does not need to extract identifiers and options from decades of signed paper; it can design them in from the first draft. It can version its rulebook and standards from the first release, instead of folding in supplements later. And it can govern its shared model the way the CDM is governed at FINOS: one model, maintained by the scheme owner, with participants proposing changes by merge request. The human gate stays where it belongs: participants propose, the scheme owner approves, and only then does the change take effect, with the accountability that a scheme owner owes to its users. Whether a new scheme starts with paper and digitalises later, or starts with named choices, versioned texts and a shared model from day one, is a decision worth making deliberately.
 
+I have been exploring what this looks like for a scheme rulebook in [Élan](https://github.com/nnworkspace/elan), an open workbench in which the rules, the specifications built on them and every change to either are kept as versioned, reviewable text, with a named human approving each change. Seeing ISDA rely on the same principles, at market scale, was one of the reasons I wrote this essay.
+
 ISDA did not set out to turn contracts into data. It set out to make a market's paperwork manageable, one step at a time. The data came as a consequence.
+
+---
+
+To explore further:
+
+- 🏛️ **ISDA, the International Swaps and Derivatives Association**  
+  https://www.isda.org/
+
+- 📦 **The Élan workbench (GitHub)**  
+  https://github.com/nnworkspace/elan
+
+- ⚙️ **Élan: A Concise Overview**  
+  https://code-and-civilisation.vercel.app/posts/elan-overview
+
+- 📖 **Élan: An Introduction**  
+  https://code-and-civilisation.vercel.app/posts/elan-an-introduction
